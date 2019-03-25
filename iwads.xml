@@ -1,0 +1,1094 @@
+<iwads>
+    <doom>
+        <name>The Ultimate DOOM</name>
+        <file-name>DOOM.WAD</file-name>
+        <episodes>
+            <e1>
+                <name>Knee-Deep in the Dead</name>
+                <levels>
+                    <name>Hangar</name>
+                    <short-name>E1M1</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>At Doom's Gate</sound-track>
+                    <par-time>0:30</par-time>
+                </levels>
+                <levels>
+                    <name>Nuclear Plant</name>
+                    <short-name>E1M2</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>The Imp's Song</sound-track>
+                    <par-time>1:15</par-time>
+                </levels>
+                <levels>
+                    <name>Toxin Refinery</name>
+                    <short-name>E1M3</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Dark Halls</sound-track>
+                    <par-time>2:00</par-time>
+                    <secret-exit>true</secret-exit>
+                </levels>
+                <levels>
+                    <name>Command Control</name>
+                    <short-name>E1M4</short-name>
+                    <authors>Tom Hall</authors>
+                    <authors>John Romero</authors>
+                    <sound-track>Kitchen Ace</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Phobos Lab</name>
+                    <short-name>E1M5</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Suspense</sound-track>
+                    <par-time>2:45</par-time>
+                </levels>
+                <levels>
+                    <name>Central Processing</name>
+                    <short-name>E1M6</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>On The Hunt</sound-track>
+                    <par-time>3:00</par-time>
+                </levels>
+                <levels>
+                    <name>Computer Station</name>
+                    <short-name>E1M7</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Demons On The Prey</sound-track>
+                    <par-time>3:00</par-time>
+                </levels>
+                <levels>
+                    <name>Phobos Anomaly</name>
+                    <short-name>E1M8</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>Tom Hall</authors>
+                    <sound-track>Sign Of Evil</sound-track>
+                    <par-time>0:30</par-time>
+                </levels>
+                <levels>
+                    <name>Military Base</name>
+                    <short-name>E1M9</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Hiding the Secrets</sound-track>
+                    <par-time>2:45</par-time>
+                    <secret>true</secret>
+                </levels>
+            </e1>
+        </episodes>
+        <episodes>
+            <e2>
+                <name>The Shores of Hell</name>
+                <levels>
+                    <name>Deimos Anomaly</name>
+                    <short-name>E2M1</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>Tom Hall</authors>
+                    <sound-track>I Sawed The Demons</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Containment Area</name>
+                    <short-name>E2M2</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>Tom Hall</authors>
+                    <sound-track>The Demons From Adrian's Pen</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Refinery</name>
+                    <short-name>E2M3</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>Tom Hall</authors>
+                    <sound-track>Intermission from DOOM</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Deimos Lab</name>
+                    <short-name>E2M4</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>Tom Hall</authors>
+                    <sound-track>They're Going To Get You</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Command Center</name>
+                    <short-name>E2M5</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Demons on the Prey</sound-track>
+                    <par-time>1:30</par-time>
+                    <secret-exit>true</secret-exit>
+                </levels>
+                <levels>
+                    <name>Halls of the Damned</name>
+                    <short-name>E2M6</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Sinister</sound-track>
+                    <par-time>6:00</par-time>
+                </levels>
+                <levels>
+                    <name>Spawning Vats</name>
+                    <short-name>E2M7</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>Tom Hall</authors>
+                    <sound-track>Waltz of the Demons</sound-track>
+                    <par-time>4:00</par-time>
+                </levels>
+                <levels>
+                    <name>Tower of Babel</name>
+                    <short-name>E2M8</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Nobody Told Me About Id</sound-track>
+                </levels>
+                <levels>
+                    <name>Fortress of Mystery</name>
+                    <short-name>E2M9</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Untitled (Mouth For War)</sound-track>
+                    <par-time>2:50</par-time>
+                    <secret>true</secret>
+                </levels>
+            </e2>
+        </episodes>
+        <episodes>
+            <e3>
+                <name>Inferno</name>
+                <levels>
+                    <name>Hell Keep</name>
+                    <short-name>E3M1</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Untitled</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Slough of Despair</name>
+                    <short-name>E3M2</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Donna to the Rescue</sound-track>
+                    <par-time>0:45</par-time>
+                </levels>
+                <levels>
+                    <name>Pandemonium</name>
+                    <short-name>E3M3</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>Tom Hall</authors>
+                    <sound-track>Deep Into The Code</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>House of Pain</name>
+                    <short-name>E3M4</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Sign of Evil</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Unholy Cathedral</name>
+                    <short-name>E3M5</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Demons on the Prey</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Mt. Erebus</name>
+                    <short-name>E3M6</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>On the Hunt</sound-track>
+                    <par-time>1:30</par-time>
+                    <secret-exit>true</secret-exit>
+                </levels>
+                <levels>
+                    <name>Limbo</name>
+                    <short-name>E3M7</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>Tom Hall</authors>
+                    <sound-track>Waltz of the Demons</sound-track>
+                    <par-time>2:45</par-time>
+                </levels>
+                <levels>
+                    <name>Dis</name>
+                    <short-name>E3M8</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Facing The Spider</sound-track>
+                </levels>
+                <levels>
+                    <name>Warrens</name>
+                    <short-name>E3M9</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Hiding the Secrets</sound-track>
+                    <par-time>2:15</par-time>
+                    <secret>true</secret>
+                </levels>
+            </e3>
+        </episodes>
+        <episodes>
+            <e4>
+                <name>Thy Flesh Consumed</name>
+                <levels>
+                    <name>Hell Beneath</name>
+                    <short-name>E4M1</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>Sign of Evil</sound-track>
+                </levels>
+                <levels>
+                    <name>Perfect Hatred</name>
+                    <short-name>E4M2</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Donna to the Rescue</sound-track>
+                    <secret-exit>true</secret-exit>
+                </levels>
+                <levels>
+                    <name>Sever the Wicked</name>
+                    <short-name>E4M3</short-name>
+                    <authors>Shawn Green</authors>
+                    <sound-track>Deep into the Code</sound-track>
+                </levels>
+                <levels>
+                    <name>Unruly Evil</name>
+                    <short-name>E4M4</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>Suspense</sound-track>
+                </levels>
+                <levels>
+                    <name>They Will Repent</name>
+                    <short-name>E4M5</short-name>
+                    <authors>Theresa Chasar</authors>
+                    <authors>Tim Willits</authors>
+                    <sound-track>Waltz of the Demons</sound-track>
+                </levels>
+                <levels>
+                    <name>Against Thee Wickedly</name>
+                    <short-name>E4M6</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>They're Going To Get You</sound-track>
+                    <par-time>6:30</par-time>
+                </levels>
+                <levels>
+                    <name>And Hell Followed</name>
+                    <short-name>E4M7</short-name>
+                    <authors>John W. Anderson</authors>
+                    <sound-track>Sinister</sound-track>
+                    <par-time>2:15</par-time>
+                </levels>
+                <levels>
+                    <name>Unto the Cruel</name>
+                    <short-name>E4M8</short-name>
+                    <authors>Shawn Green</authors>
+                    <sound-track>Demons on the Prey</sound-track>
+                </levels>
+                <levels>
+                    <name>Fear</name>
+                    <short-name>E4M9</short-name>
+                    <authors>Tim Willits</authors>
+                    <sound-track>Hiding the Secrets</sound-track>
+                    <secret>true</secret>
+                </levels>
+            </e4>
+        </episodes>
+    </doom>
+    <doom2>
+        <name>Doom II</name>
+        <file-name>DOOM2.WAD</file-name>
+        <episodes>
+            <e1>
+                <name>Subterranean and Starport levels</name>
+                <levels>
+                    <name>Entryway</name>
+                    <short-name>MAP01</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Running From Evil</sound-track>
+                    <par-time>0:30</par-time>
+                </levels>
+                <levels>
+                    <name>Underhalls</name>
+                    <short-name>MAP02</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>The Healer Stalks</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Gantlet</name>
+                    <short-name>MAP03</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>Countdown To Death</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Focus</name>
+                    <short-name>MAP04</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>Between Levels</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Waste Tunnels</name>
+                    <short-name>MAP05</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>DOOM</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Crusher</name>
+                    <short-name>MAP06</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>In The Dark</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+            </e1>
+        </episodes>
+        <episodes>
+            <e2>
+                <name>Hellish Outpost levels</name>
+                <levels>
+                    <name>Dead Simple</name>
+                    <short-name>MAP07</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <authors>American McGee</authors>
+                    <sound-track>Shawn's Got The Shotgun</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Tricks and Traps</name>
+                    <short-name>MAP08</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>The Dave D. Taylor Blues</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Pit</name>
+                    <short-name>MAP09</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Into Sandy's City</sound-track>
+                    <par-time>4:30</par-time>
+                </levels>
+                <levels>
+                    <name>Refueling Base</name>
+                    <short-name>MAP10</short-name>
+                    <authors>Tom Hall</authors>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>The Demon's Dead</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Circle of Death</name>
+                    <short-name>MAP11</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>The Healer Stalks</sound-track>
+                    <par-time>3:30</par-time>
+                </levels>
+            </e2>
+        </episodes>
+        <episodes>
+            <e3>
+                <name>City levels</name>
+                <levels>
+                    <name>The Factory</name>
+                    <short-name>MAP12</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>In The Dark</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Downtown</name>
+                    <short-name>MAP13</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>DOOM</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Inmost Dens</name>
+                    <short-name>MAP14</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>The Dave D. Taylor Blues</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Industrial Zone</name>
+                    <short-name>MAP15</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Running From Evil</sound-track>
+                    <par-time>3:30</par-time>
+                    <secret-exit>true</secret-exit>
+                </levels>
+                <levels>
+                    <name>Suburbs</name>
+                    <short-name>MAP16</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>The Demon's Dead</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Tenements</name>
+                    <short-name>MAP17</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>The Healer Stalks</sound-track>
+                    <par-time>7:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Courtyard</name>
+                    <short-name>MAP18</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Waiting For Romero To Play</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Citadel</name>
+                    <short-name>MAP19</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Shawn's Got The Shotgun</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Gotcha!</name>
+                    <short-name>MAP20</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Message For The Archvile</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+            </e3>
+        </episodes>
+        <episodes>
+            <e4>
+                <name>Inside Hell levels</name>
+                <levels>
+                    <name>Nirvana</name>
+                    <short-name>MAP21</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Countdown To Death</sound-track>
+                    <par-time>4:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Catacombs</name>
+                    <short-name>MAP22</short-name>
+                    <authors>American McGee</authors>
+                    <sound-track>The Dave D. Taylor Blues</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Barrels o' Fun</name>
+                    <short-name>MAP23</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Bye Bye American Pie</sound-track>
+                    <par-time>3:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Chasm</name>
+                    <short-name>MAP24</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>In The Dark</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Bloodfalls</name>
+                    <short-name>MAP25</short-name>
+                    <authors>Shawn Green</authors>
+                    <sound-track>Adrian's Asleep</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Abandoned Mines</name>
+                    <short-name>MAP26</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Message For The Archvile</sound-track>
+                    <par-time>5:00</par-time>
+                </levels>
+                <levels>
+                    <name>Monster Condo</name>
+                    <short-name>MAP27</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Waiting For Romero To Play</sound-track>
+                    <par-time>5:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Spirit World</name>
+                    <short-name>MAP28</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Getting Too Tense</sound-track>
+                    <par-time>7:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Living End</name>
+                    <short-name>MAP29</short-name>
+                    <authors>John Romero</authors>
+                    <sound-track>Shawn's Got The Shotgun</sound-track>
+                    <par-time>5:00</par-time>
+                </levels>
+                <levels>
+                    <name>Icon of Sin</name>
+                    <short-name>MAP30</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Opening To Hell</sound-track>
+                    <par-time>3:00</par-time>
+                </levels>
+            </e4>
+        </episodes>
+        <episodes>
+            <secret>
+                <name>Secret levels</name>
+                <levels>
+                    <name>Wolfenstein</name>
+                    <short-name>MAP31</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>Evil Incarnate</sound-track>
+                    <par-time>2:00</par-time>
+                    <secret-exit>true</secret-exit>
+                    <secret>true</secret>
+                </levels>
+                <levels>
+                    <name>Grosse</name>
+                    <short-name>MAP32</short-name>
+                    <authors>Sandy Petersen</authors>
+                    <sound-track>The Ultimate Challenge</sound-track>
+                    <par-time>0:30</par-time>
+                    <secret>true</secret>
+                </levels>
+            </secret>
+        </episodes>
+    </doom2>
+    <tnt>
+        <name>TNT: Evilution</name>
+        <file-name>TNT.WAD</file-name>
+        <episodes>
+            <e1>
+                <name>Experimental labs levels</name>
+                <levels>
+                    <name>System Control</name>
+                    <short-name>MAP01</short-name>
+                    <authors>Tom Mustaine</authors>
+                    <sound-track>Sadistic</sound-track>
+                    <par-time>0:30</par-time>
+                </levels>
+                <levels>
+                    <name>Human BBQ</name>
+                    <short-name>MAP02</short-name>
+                    <authors>John Wakelin</authors>
+                    <sound-track>Smells Like Burning Corpse</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Power Control</name>
+                    <short-name>MAP03</short-name>
+                    <authors>John Minadeo</authors>
+                    <sound-track>Message For The Archvile</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Wormhole</name>
+                    <short-name>MAP04</short-name>
+                    <authors>Ty Halderman</authors>
+                    <sound-track>Death's Bells</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Hanger</name>
+                    <short-name>MAP05</short-name>
+                    <authors>Jim Dethlefsen</authors>
+                    <sound-track>More</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Open Season</name>
+                    <short-name>MAP06</short-name>
+                    <authors>Ty Halderman</authors>
+                    <sound-track>Agony Rhapsody</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+            </e1>
+        </episodes>
+        <episodes>
+            <e2>
+                <name>Military base levels</name>
+                <levels>
+                    <name>Prison</name>
+                    <short-name>MAP07</short-name>
+                    <authors>Andrew Dowswell</authors>
+                    <sound-track>Soldier Of Chaos</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Metal</name>
+                    <short-name>MAP08</short-name>
+                    <authors>John Minadeo</authors>
+                    <sound-track>Into The Beast's Belly</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Stronghold</name>
+                    <short-name>MAP09</short-name>
+                    <authors>Ty Halderman</authors>
+                    <sound-track>Sadistic</sound-track>
+                    <par-time>4:30</par-time>
+                </levels>
+                <levels>
+                    <name>Redemption</name>
+                    <short-name>MAP10</short-name>
+                    <authors>Tom Mustaine</authors>
+                    <sound-track>Infinite</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Storage Facility</name>
+                    <short-name>MAP11</short-name>
+                    <authors>Dean Johnson</authors>
+                    <sound-track>Let's Kill At Will</sound-track>
+                    <par-time>3:30</par-time>
+                </levels>
+            </e2>
+        </episodes>
+        <episodes>
+            <e3>
+                <name>Nightmare levels</name>
+                <levels>
+                    <name>Crater</name>
+                    <short-name>MAP12</short-name>
+                    <authors>Jim Lowell</authors>
+                    <sound-track>The Dave D. Taylor Blues</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Nukage Processing</name>
+                    <short-name>MAP13</short-name>
+                    <authors>Brian Kidby</authors>
+                    <sound-track>Death's Bells</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Steel Works</name>
+                    <short-name>MAP14</short-name>
+                    <authors>Robin Patenall</authors>
+                    <sound-track>Cold Subtleness</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Dead Zone</name>
+                    <short-name>MAP15</short-name>
+                    <authors>William Whitaker</authors>
+                    <sound-track>Smells Like Burning Corpse</sound-track>
+                    <par-time>3:30</par-time>
+                    <secret-exit>true</secret-exit>
+                </levels>
+                <levels>
+                    <name>Deepest Reaches</name>
+                    <short-name>MAP16</short-name>
+                    <authors>Andre Arsenault</authors>
+                    <sound-track>Blood Jungle</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Processing Area</name>
+                    <short-name>MAP17</short-name>
+                    <authors>Tom Mustaine</authors>
+                    <sound-track>More</sound-track>
+                    <par-time>7:00</par-time>
+                </levels>
+                <levels>
+                    <name>Mill</name>
+                    <short-name>MAP18</short-name>
+                    <authors>Ty Halderman</authors>
+                    <sound-track>Infinite</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Shipping/Respawning</name>
+                    <short-name>MAP19</short-name>
+                    <authors>Ty Halderman</authors>
+                    <authors>Jimmy Sieben</authors>
+                    <sound-track>Countdown to Death</sound-track>
+                    <par-time>3:30</par-time>
+                </levels>
+                <levels>
+                    <name>Central Processing</name>
+                    <short-name>MAP20</short-name>
+                    <authors>Drake O'Brien</authors>
+                    <sound-track>Horizon</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+            </e3>
+        </episodes>
+        <episodes>
+            <e4>
+                <name>Hellish levels</name>
+                <levels>
+                    <name>Administration Center</name>
+                    <short-name>MAP21</short-name>
+                    <authors>Drake O'Brien</authors>
+                    <sound-track>Into Sandy's City</sound-track>
+                    <par-time>4:00</par-time>
+                </levels>
+                <levels>
+                    <name>Habitat</name>
+                    <short-name>MAP22</short-name>
+                    <authors>Christopher Buteau</authors>
+                    <sound-track>AimShootKill</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Lunar Mining Project</name>
+                    <short-name>MAP23</short-name>
+                    <authors>Paul Turnbull</authors>
+                    <sound-track>Bye Bye American Pie</sound-track>
+                    <par-time>3:00</par-time>
+                </levels>
+                <levels>
+                    <name>Quarry</name>
+                    <short-name>MAP24</short-name>
+                    <authors>Dean Johnson</authors>
+                    <sound-track>Between Levels</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Baron's Den</name>
+                    <short-name>MAP25</short-name>
+                    <authors>David Hill</authors>
+                    <sound-track>DOOM</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Ballistyx</name>
+                    <short-name>MAP26</short-name>
+                    <authors>Mark Snell</authors>
+                    <authors>Jim Lowell</authors>
+                    <sound-track>Blood Jungle</sound-track>
+                    <par-time>5:00</par-time>
+                </levels>
+                <levels>
+                    <name>Mount Pain</name>
+                    <short-name>MAP27</short-name>
+                    <authors>Drake O'Brien</authors>
+                    <sound-track>Into the Beast's Belly</sound-track>
+                    <par-time>5:30</par-time>
+                </levels>
+                <levels>
+                    <name>Heck</name>
+                    <short-name>MAP28</short-name>
+                    <authors>Milo Casali</authors>
+                    <sound-track>AimShootKill</sound-track>
+                    <par-time>7:00</par-time>
+                </levels>
+                <levels>
+                    <name>River Styx</name>
+                    <short-name>MAP29</short-name>
+                    <authors>Jimmy Sieben</authors>
+                    <sound-track>Death's Bells</sound-track>
+                    <par-time>5:00</par-time>
+                </levels>
+                <levels>
+                    <name>Last Call</name>
+                    <short-name>MAP30</short-name>
+                    <authors>Jimmy Sieben</authors>
+                    <sound-track>Into The Beast's Belly</sound-track>
+                    <par-time>3:00</par-time>
+                </levels>
+            </e4>
+        </episodes>
+        <episodes>
+            <secret>
+                <name>Secret levels</name>
+                <levels>
+                    <name>Pharaoh</name>
+                    <short-name>MAP31</short-name>
+                    <authors>Dario Casali</authors>
+                    <sound-track>Legion Of The Lost</sound-track>
+                    <par-time>2:00</par-time>
+                    <secret-exit>true</secret-exit>
+                    <secret>true</secret>
+                </levels>
+                <levels>
+                    <name>Caribbean</name>
+                    <short-name>MAP32</short-name>
+                    <authors>Dario Casali</authors>
+                    <sound-track>Into Sandy's City</sound-track>
+                    <par-time>0:30</par-time>
+                    <secret>true</secret>
+                </levels>
+            </secret>
+        </episodes>
+    </tnt>
+    <plutonia>
+        <name>The Plutonia Experiment</name>
+        <file-name>PLUTONIA.WAD</file-name>
+        <episodes>
+            <e1>
+                <name>Initial Earth levels</name>
+                <levels>
+                    <name>Congo</name>
+                    <short-name>MAP01</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>The Imp's Song</sound-track>
+                    <par-time>0:30</par-time>
+                </levels>
+                <levels>
+                    <name>Well of Souls</name>
+                    <short-name>MAP02</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Dark Halls</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Aztec</name>
+                    <short-name>MAP03</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>On the Hunt</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Caged</name>
+                    <short-name>MAP04</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Kitchen Ace (And Taking Names)</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Ghost Town</name>
+                    <short-name>MAP05</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Hiding The Secrets</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Baron's Lair</name>
+                    <short-name>MAP06</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Sign Of Evil</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+            </e1>
+        </episodes>
+        <episodes>
+            <e2>
+                <name>Later Earth levels</name>
+                <levels>
+                    <name>Caughtyard</name>
+                    <short-name>MAP07</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>I Sawed The Demons</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Realm</name>
+                    <short-name>MAP08</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>The Demons From Adrian's Pen</sound-track>
+                    <par-time>2:00</par-time>
+                </levels>
+                <levels>
+                    <name>Abattoire</name>
+                    <short-name>MAP09</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Deep Into The Code</sound-track>
+                    <par-time>4:30</par-time>
+                </levels>
+                <levels>
+                    <name>Onslaught</name>
+                    <short-name>MAP10</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Demons On The Prey</sound-track>
+                    <par-time>1:30</par-time>
+                </levels>
+                <levels>
+                    <name>Hunted</name>
+                    <short-name>MAP11</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Sweet Little Dead Bunny</sound-track>
+                    <par-time>3:30</par-time>
+                </levels>
+            </e2>
+        </episodes>
+        <episodes>
+            <e3>
+                <name>Hellish levels</name>
+                <levels>
+                    <name>Speed</name>
+                    <short-name>MAP12</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Facing The Spider</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Crypt</name>
+                    <short-name>MAP13</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Donna To The Rescue</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Genesis</name>
+                    <short-name>MAP14</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Nobody Told Me About Id</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Twilight</name>
+                    <short-name>MAP15</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Waltz Of The Demons</sound-track>
+                    <par-time>3:30</par-time>
+                    <secret-exit>true</secret-exit>
+                </levels>
+                <levels>
+                    <name>The Omen</name>
+                    <short-name>MAP16</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Untitled (Mouth For War)</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Compound</name>
+                    <short-name>MAP17</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>At Doom's Gate</sound-track>
+                    <par-time>7:00</par-time>
+                </levels>
+                <levels>
+                    <name>Neurosphere</name>
+                    <short-name>MAP18</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Demons On The Prey</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>NME</name>
+                    <short-name>MAP19</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Suspense</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Death Domain</name>
+                    <short-name>MAP20</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Message For The Arch-Vile</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+            </e3>
+        </episodes>
+        <episodes>
+            <e4>
+                <name>Devil hive levels</name>
+                <levels>
+                    <name>Slayer</name>
+                    <short-name>MAP21</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Doom II intermission text screen</sound-track>
+                    <par-time>4:00</par-time>
+                </levels>
+                <levels>
+                    <name>Impossible Mission</name>
+                    <short-name>MAP22</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>The Dave D. Taylor Blues</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Tombstone</name>
+                    <short-name>MAP23</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Bye Bye American Pie</sound-track>
+                    <par-time>3:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Final Frontier</name>
+                    <short-name>MAP24</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>In the Dark</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Temple of Darkness</name>
+                    <short-name>MAP25</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Adrian's Asleep</sound-track>
+                    <par-time>2:30</par-time>
+                </levels>
+                <levels>
+                    <name>Bunker</name>
+                    <short-name>MAP26</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Message For The Archvile</sound-track>
+                    <par-time>5:00</par-time>
+                </levels>
+                <levels>
+                    <name>Anti-Christ</name>
+                    <short-name>MAP27</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>I Sawed The Demons</sound-track>
+                    <par-time>5:30</par-time>
+                </levels>
+                <levels>
+                    <name>The Sewers</name>
+                    <short-name>MAP28</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>The Demons From Adrian's Pen</sound-track>
+                    <par-time>7:00</par-time>
+                </levels>
+                <levels>
+                    <name>Odyssey of Noises</name>
+                    <short-name>MAP29</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>At Doom's Gate</sound-track>
+                    <par-time>5:00</par-time>
+                </levels>
+                <levels>
+                    <name>The Gateway of Hell</name>
+                    <short-name>MAP30</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>The End of DOOM</sound-track>
+                    <par-time>3:00</par-time>
+                </levels>
+            </e4>
+        </episodes>
+        <episodes>
+            <secret>
+                <name>Secret levels</name>
+                <levels>
+                    <name>Cyberden</name>
+                    <short-name>MAP31</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Sign Of Evil</sound-track>
+                    <par-time>2:00</par-time>
+                    <secret-exit>true</secret-exit>
+                    <secret>true</secret>
+                </levels>
+                <levels>
+                    <name>Go 2 It</name>
+                    <short-name>MAP32</short-name>
+                    <authors>Dario Casali</authors>
+                    <authors>Milo Casali</authors>
+                    <sound-track>Nobody Told Me About Id</sound-track>
+                    <par-time>0:30</par-time>
+                    <secret>true</secret>
+                </levels>
+            </secret>
+        </episodes>
+    </plutonia>
+</iwads>

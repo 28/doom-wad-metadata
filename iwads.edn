@@ -1,0 +1,698 @@
+{:iwads [{:doom {:name      "The Ultimate DOOM"
+                 :file-name "DOOM.WAD"
+                 :episodes  [{:e1 {:name   "Knee-Deep in the Dead"
+                                   :levels [{:name        "Hangar"
+                                             :short-name  "E1M1"
+                                             :authors     ["John Romero"]
+                                             :sound-track "At Doom's Gate"
+                                             :par-time    "0:30"}
+                                            {:name        "Nuclear Plant"
+                                             :short-name  "E1M2"
+                                             :authors     ["John Romero"]
+                                             :sound-track "The Imp's Song"
+                                             :par-time    "1:15"}
+                                            {:name        "Toxin Refinery"
+                                             :short-name  "E1M3"
+                                             :authors     ["John Romero"]
+                                             :sound-track "Dark Halls"
+                                             :par-time    "2:00"
+                                             :secret-exit true}
+                                            {:name        "Command Control"
+                                             :short-name  "E1M4"
+                                             :authors     ["Tom Hall" "John Romero"]
+                                             :sound-track "Kitchen Ace"
+                                             :par-time    "1:30"}
+                                            {:name        "Phobos Lab"
+                                             :short-name  "E1M5"
+                                             :authors     ["John Romero"]
+                                             :sound-track "Suspense"
+                                             :par-time    "2:45"}
+                                            {:name        "Central Processing"
+                                             :short-name  "E1M6"
+                                             :authors     ["John Romero"]
+                                             :sound-track "On The Hunt"
+                                             :par-time    "3:00"}
+                                            {:name        "Computer Station"
+                                             :short-name  "E1M7"
+                                             :authors     ["John Romero"]
+                                             :sound-track "Demons On The Prey"
+                                             :par-time    "3:00"}
+                                            {:name        "Phobos Anomaly"
+                                             :short-name  "E1M8"
+                                             :authors     ["Sandy Petersen" "Tom Hall"]
+                                             :sound-track "Sign Of Evil"
+                                             :par-time    "0:30"}
+                                            {:name        "Military Base"
+                                             :short-name  "E1M9"
+                                             :authors     ["John Romero"]
+                                             :sound-track "Hiding the Secrets"
+                                             :par-time    "2:45"
+                                             :secret      true}]}}
+                             {:e2 {:name   "The Shores of Hell"
+                                   :levels [{:name        "Deimos Anomaly"
+                                             :short-name  "E2M1"
+                                             :authors     ["Sandy Petersen" "Tom Hall"]
+                                             :sound-track "I Sawed The Demons"
+                                             :par-time    "1:30"}
+                                            {:name        "Containment Area"
+                                             :short-name  "E2M2"
+                                             :authors     ["Sandy Petersen" "Tom Hall"]
+                                             :sound-track "The Demons From Adrian's Pen"
+                                             :par-time    "1:30"}
+                                            {:name        "Refinery"
+                                             :short-name  "E2M3"
+                                             :authors     ["Sandy Petersen" "Tom Hall"]
+                                             :sound-track "Intermission from DOOM"
+                                             :par-time    "1:30"}
+                                            {:name        "Deimos Lab"
+                                             :short-name  "E2M4"
+                                             :authors     ["Sandy Petersen" "Tom Hall"]
+                                             :sound-track "They're Going To Get You"
+                                             :par-time    "2:00"}
+                                            {:name        "Command Center"
+                                             :short-name  "E2M5"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Demons on the Prey"
+                                             :par-time    "1:30"
+                                             :secret-exit true}
+                                            {:name        "Halls of the Damned"
+                                             :short-name  "E2M6"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Sinister"
+                                             :par-time    "6:00"}
+                                            {:name        "Spawning Vats"
+                                             :short-name  "E2M7"
+                                             :authors     ["Sandy Petersen" "Tom Hall"]
+                                             :sound-track "Waltz of the Demons"
+                                             :par-time    "4:00"}
+                                            {:name        "Tower of Babel"
+                                             :short-name  "E2M8"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Nobody Told Me About Id"}
+                                            {:name        "Fortress of Mystery"
+                                             :short-name  "E2M9"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Untitled (Mouth For War)"
+                                             :par-time    "2:50"
+                                             :secret      true}]}}
+                             {:e3 {:name   "Inferno"
+                                   :levels [{:name        "Hell Keep"
+                                             :short-name  "E3M1"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Untitled"
+                                             :par-time    "1:30"}
+                                            {:name        "Slough of Despair"
+                                             :short-name  "E3M2"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Donna to the Rescue"
+                                             :par-time    "0:45"}
+                                            {:name        "Pandemonium"
+                                             :short-name  "E3M3"
+                                             :authors     ["Sandy Petersen" "Tom Hall"]
+                                             :sound-track "Deep Into The Code"
+                                             :par-time    "1:30"}
+                                            {:name        "House of Pain"
+                                             :short-name  "E3M4"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Sign of Evil"
+                                             :par-time    "2:30"}
+                                            {:name        "Unholy Cathedral"
+                                             :short-name  "E3M5"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Demons on the Prey"
+                                             :par-time    "1:30"}
+                                            {:name        "Mt. Erebus"
+                                             :short-name  "E3M6"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "On the Hunt"
+                                             :par-time    "1:30"
+                                             :secret-exit true}
+                                            {:name        "Limbo"
+                                             :short-name  "E3M7"
+                                             :authors     ["Sandy Petersen" "Tom Hall"]
+                                             :sound-track "Waltz of the Demons"
+                                             :par-time    "2:45"}
+                                            {:name        "Dis"
+                                             :short-name  "E3M8"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Facing The Spider"}
+                                            {:name        "Warrens"
+                                             :short-name  "E3M9"
+                                             :authors     ["Sandy Petersen"]
+                                             :sound-track "Hiding the Secrets"
+                                             :par-time    "2:15"
+                                             :secret      true}]}}
+                             {:e4 {:name   "Thy Flesh Consumed"
+                                   :levels [{:name        "Hell Beneath"
+                                             :short-name  "E4M1"
+                                             :authors     ["American McGee"]
+                                             :sound-track "Sign of Evil"}
+                                            {:name        "Perfect Hatred"
+                                             :short-name  "E4M2"
+                                             :authors     ["John Romero"]
+                                             :sound-track "Donna to the Rescue"
+                                             :secret-exit true}
+                                            {:name        "Sever the Wicked"
+                                             :short-name  "E4M3"
+                                             :authors     ["Shawn Green"]
+                                             :sound-track "Deep into the Code"}
+                                            {:name        "Unruly Evil"
+                                             :short-name  "E4M4"
+                                             :authors     ["American McGee"]
+                                             :sound-track "Suspense"}
+                                            {:name        "They Will Repent"
+                                             :short-name  "E4M5"
+                                             :authors     ["Theresa Chasar" "Tim Willits"]
+                                             :sound-track "Waltz of the Demons"}
+                                            {:name        "Against Thee Wickedly"
+                                             :short-name  "E4M6"
+                                             :authors     ["John Romero"]
+                                             :sound-track "They're Going To Get You"
+                                             :par-time    "6:30"}
+                                            {:name        "And Hell Followed"
+                                             :short-name  "E4M7"
+                                             :authors     ["John W. Anderson"]
+                                             :sound-track "Sinister"
+                                             :par-time    "2:15"}
+                                            {:name        "Unto the Cruel"
+                                             :short-name  "E4M8"
+                                             :authors     ["Shawn Green"]
+                                             :sound-track "Demons on the Prey"}
+                                            {:name        "Fear"
+                                             :short-name  "E4M9"
+                                             :authors     ["Tim Willits"]
+                                             :sound-track "Hiding the Secrets"
+                                             :secret      true}]}}]}}
+         {:doom2 {:name      "Doom II"
+                  :file-name "DOOM2.WAD"
+                  :episodes  [{:e1 {:name   "Subterranean and Starport levels"
+                                    :levels [{:name        "Entryway"
+                                              :short-name  "MAP01"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Running From Evil"
+                                              :par-time    "0:30"}
+                                             {:name        "Underhalls"
+                                              :short-name  "MAP02"
+                                              :authors     ["American McGee"]
+                                              :sound-track "The Healer Stalks"
+                                              :par-time    "1:30"}
+                                             {:name        "The Gantlet"
+                                              :short-name  "MAP03"
+                                              :authors     ["American McGee"]
+                                              :sound-track "Countdown To Death"
+                                              :par-time    "2:00"}
+                                             {:name        "The Focus"
+                                              :short-name  "MAP04"
+                                              :authors     ["American McGee"]
+                                              :sound-track "Between Levels"
+                                              :par-time    "2:00"}
+                                             {:name        "The Waste Tunnels"
+                                              :short-name  "MAP05"
+                                              :authors     ["American McGee"]
+                                              :sound-track "DOOM"
+                                              :par-time    "1:30"}
+                                             {:name        "The Crusher"
+                                              :short-name  "MAP06"
+                                              :authors     ["American McGee"]
+                                              :sound-track "In The Dark"
+                                              :par-time    "2:30"}]}}
+                              {:e2 {:name   "Hellish Outpost levels"
+                                    :levels [{:name        "Dead Simple"
+                                              :short-name  "MAP07"
+                                              :authors     ["Sandy Petersen" "American McGee"]
+                                              :sound-track "Shawn's Got The Shotgun"
+                                              :par-time    "2:00"}
+                                             {:name        "Tricks and Traps"
+                                              :short-name  "MAP08"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "The Dave D. Taylor Blues"
+                                              :par-time    "2:00"}
+                                             {:name        "The Pit"
+                                              :short-name  "MAP09"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Into Sandy's City"
+                                              :par-time    "4:30"}
+                                             {:name        "Refueling Base"
+                                              :short-name  "MAP10"
+                                              :authors     ["Tom Hall" "Sandy Petersen"]
+                                              :sound-track "The Demon's Dead"
+                                              :par-time    "1:30"}
+                                             {:name        "Circle of Death"
+                                              :short-name  "MAP11"
+                                              :authors     ["John Romero"]
+                                              :sound-track "The Healer Stalks"
+                                              :par-time    "3:30"}]}}
+                              {:e3 {:name   "City levels"
+                                    :levels [{:name        "The Factory"
+                                              :short-name  "MAP12"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "In The Dark"
+                                              :par-time    "2:30"}
+                                             {:name        "Downtown"
+                                              :short-name  "MAP13"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "DOOM"
+                                              :par-time    "2:30"}
+                                             {:name        "The Inmost Dens"
+                                              :short-name  "MAP14"
+                                              :authors     ["American McGee"]
+                                              :sound-track "The Dave D. Taylor Blues"
+                                              :par-time    "2:30"}
+                                             {:name        "Industrial Zone"
+                                              :short-name  "MAP15"
+                                              :authors     ["John Romero"]
+                                              :sound-track "Running From Evil"
+                                              :par-time    "3:30"
+                                              :secret-exit true}
+                                             {:name        "Suburbs"
+                                              :short-name  "MAP16"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "The Demon's Dead"
+                                              :par-time    "2:30"}
+                                             {:name        "Tenements"
+                                              :short-name  "MAP17"
+                                              :authors     ["John Romero"]
+                                              :sound-track "The Healer Stalks"
+                                              :par-time    "7:00"}
+                                             {:name        "The Courtyard"
+                                              :short-name  "MAP18"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Waiting For Romero To Play"
+                                              :par-time    "2:30"}
+                                             {:name        "The Citadel"
+                                              :short-name  "MAP19"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Shawn's Got The Shotgun"
+                                              :par-time    "2:30"}
+                                             {:name        "Gotcha!"
+                                              :short-name  "MAP20"
+                                              :authors     ["John Romero"]
+                                              :sound-track "Message For The Archvile"
+                                              :par-time    "2:30"}]}}
+                              {:e4 {:name   "Inside Hell levels"
+                                    :levels [{:name        "Nirvana"
+                                              :short-name  "MAP21"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Countdown To Death"
+                                              :par-time    "4:00"}
+                                             {:name        "The Catacombs"
+                                              :short-name  "MAP22"
+                                              :authors     ["American McGee"]
+                                              :sound-track "The Dave D. Taylor Blues"
+                                              :par-time    "2:30"}
+                                             {:name        "Barrels o' Fun"
+                                              :short-name  "MAP23"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Bye Bye American Pie"
+                                              :par-time    "3:00"}
+                                             {:name        "The Chasm"
+                                              :short-name  "MAP24"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "In The Dark"
+                                              :par-time    "2:30"}
+                                             {:name        "Bloodfalls"
+                                              :short-name  "MAP25"
+                                              :authors     ["Shawn Green"]
+                                              :sound-track "Adrian's Asleep"
+                                              :par-time    "2:30"}
+                                             {:name        "The Abandoned Mines"
+                                              :short-name  "MAP26"
+                                              :authors     ["John Romero"]
+                                              :sound-track "Message For The Archvile"
+                                              :par-time    "5:00"}
+                                             {:name        "Monster Condo"
+                                              :short-name  "MAP27"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Waiting For Romero To Play"
+                                              :par-time    "5:30"}
+                                             {:name        "The Spirit World"
+                                              :short-name  "MAP28"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Getting Too Tense"
+                                              :par-time    "7:00"}
+                                             {:name        "The Living End"
+                                              :short-name  "MAP29"
+                                              :authors     ["John Romero"]
+                                              :sound-track "Shawn's Got The Shotgun"
+                                              :par-time    "5:00"}
+                                             {:name        "Icon of Sin"
+                                              :short-name  "MAP30"
+                                              :authors     ["Sandy Petersen"]
+                                              :sound-track "Opening To Hell"
+                                              :par-time    "3:00"}]}}
+                              {:secret {:name   "Secret levels"
+                                        :levels [{:name        "Wolfenstein"
+                                                  :short-name  "MAP31"
+                                                  :authors     ["Sandy Petersen"]
+                                                  :sound-track "Evil Incarnate"
+                                                  :par-time    "2:00"
+                                                  :secret-exit true
+                                                  :secret      true}
+                                                 {:name        "Grosse"
+                                                  :short-name  "MAP32"
+                                                  :authors     ["Sandy Petersen"]
+                                                  :sound-track "The Ultimate Challenge"
+                                                  :par-time    "0:30"
+                                                  :secret      true}]}}]}}
+         {:tnt {:name      "TNT: Evilution"
+                :file-name "TNT.WAD"
+                :episodes  [{:e1 {:name   "Experimental labs levels"
+                                  :levels [{:name        "System Control"
+                                            :short-name  "MAP01"
+                                            :authors     ["Tom Mustaine"]
+                                            :sound-track "Sadistic"
+                                            :par-time    "0:30"}
+                                           {:name        "Human BBQ"
+                                            :short-name  "MAP02"
+                                            :authors     ["John Wakelin"]
+                                            :sound-track "Smells Like Burning Corpse"
+                                            :par-time    "1:30"}
+                                           {:name        "Power Control"
+                                            :short-name  "MAP03"
+                                            :authors     ["John Minadeo"]
+                                            :sound-track "Message For The Archvile"
+                                            :par-time    "2:00"}
+                                           {:name        "Wormhole"
+                                            :short-name  "MAP04"
+                                            :authors     ["Ty Halderman"]
+                                            :sound-track "Death's Bells"
+                                            :par-time    "2:00"}
+                                           {:name        "Hanger"
+                                            :short-name  "MAP05"
+                                            :authors     ["Jim Dethlefsen"]
+                                            :sound-track "More"
+                                            :par-time    "1:30"}
+                                           {:name        "Open Season"
+                                            :short-name  "MAP06"
+                                            :authors     ["Ty Halderman"]
+                                            :sound-track "Agony Rhapsody"
+                                            :par-time    "2:30"}]}}
+                            {:e2 {:name   "Military base levels"
+                                  :levels [{:name        "Prison"
+                                            :short-name  "MAP07"
+                                            :authors     ["Andrew Dowswell"]
+                                            :sound-track "Soldier Of Chaos"
+                                            :par-time    "2:00"}
+                                           {:name        "Metal"
+                                            :short-name  "MAP08"
+                                            :authors     ["John Minadeo"]
+                                            :sound-track "Into The Beast's Belly"
+                                            :par-time    "2:00"}
+                                           {:name        "Stronghold"
+                                            :short-name  "MAP09"
+                                            :authors     ["Ty Halderman"]
+                                            :sound-track "Sadistic"
+                                            :par-time    "4:30"}
+                                           {:name        "Redemption"
+                                            :short-name  "MAP10"
+                                            :authors     ["Tom Mustaine"]
+                                            :sound-track "Infinite"
+                                            :par-time    "1:30"}
+                                           {:name        "Storage Facility"
+                                            :short-name  "MAP11"
+                                            :authors     ["Dean Johnson"]
+                                            :sound-track "Let's Kill At Will"
+                                            :par-time    "3:30"}]}}
+                            {:e3 {:name   "Nightmare levels"
+                                  :levels [{:name        "Crater"
+                                            :short-name  "MAP12"
+                                            :authors     ["Jim Lowell"]
+                                            :sound-track "The Dave D. Taylor Blues"
+                                            :par-time    "2:30"}
+                                           {:name        "Nukage Processing"
+                                            :short-name  "MAP13"
+                                            :authors     ["Brian Kidby"]
+                                            :sound-track "Death's Bells"
+                                            :par-time    "2:30"}
+                                           {:name        "Steel Works"
+                                            :short-name  "MAP14"
+                                            :authors     ["Robin Patenall"]
+                                            :sound-track "Cold Subtleness"
+                                            :par-time    "2:30"}
+                                           {:name        "Dead Zone"
+                                            :short-name  "MAP15"
+                                            :authors     ["William Whitaker"]
+                                            :sound-track "Smells Like Burning Corpse"
+                                            :par-time    "3:30"
+                                            :secret-exit true}
+                                           {:name        "Deepest Reaches"
+                                            :short-name  "MAP16"
+                                            :authors     ["Andre Arsenault"]
+                                            :sound-track "Blood Jungle"
+                                            :par-time    "2:30"}
+                                           {:name        "Processing Area"
+                                            :short-name  "MAP17"
+                                            :authors     ["Tom Mustaine"]
+                                            :sound-track "More"
+                                            :par-time    "7:00"}
+                                           {:name        "Mill"
+                                            :short-name  "MAP18"
+                                            :authors     ["Ty Halderman"]
+                                            :sound-track "Infinite"
+                                            :par-time    "2:30"}
+                                           {:name        "Shipping/Respawning"
+                                            :short-name  "MAP19"
+                                            :authors     ["Ty Halderman" "Jimmy Sieben"]
+                                            :sound-track "Countdown to Death"
+                                            :par-time    "3:30"}
+                                           {:name        "Central Processing"
+                                            :short-name  "MAP20"
+                                            :authors     ["Drake O'Brien"]
+                                            :sound-track "Horizon"
+                                            :par-time    "2:30"}]}}
+                            {:e4 {:name   "Hellish levels"
+                                  :levels [{:name        "Administration Center"
+                                            :short-name  "MAP21"
+                                            :authors     ["Drake O'Brien"]
+                                            :sound-track "Into Sandy's City"
+                                            :par-time    "4:00"}
+                                           {:name        "Habitat"
+                                            :short-name  "MAP22"
+                                            :authors     ["Christopher Buteau"]
+                                            :sound-track "AimShootKill"
+                                            :par-time    "2:30"}
+                                           {:name        "Lunar Mining Project"
+                                            :short-name  "MAP23"
+                                            :authors     ["Paul Turnbull"]
+                                            :sound-track "Bye Bye American Pie"
+                                            :par-time    "3:00"}
+                                           {:name        "Quarry"
+                                            :short-name  "MAP24"
+                                            :authors     ["Dean Johnson"]
+                                            :sound-track "Between Levels"
+                                            :par-time    "2:30"}
+                                           {:name        "Baron's Den"
+                                            :short-name  "MAP25"
+                                            :authors     ["David Hill"]
+                                            :sound-track "DOOM"
+                                            :par-time    "2:30"}
+                                           {:name        "Ballistyx"
+                                            :short-name  "MAP26"
+                                            :authors     ["Mark Snell" "Jim Lowell"]
+                                            :sound-track "Blood Jungle"
+                                            :par-time    "5:00"}
+                                           {:name        "Mount Pain"
+                                            :short-name  "MAP27"
+                                            :authors     ["Drake O'Brien"]
+                                            :sound-track "Into the Beast's Belly"
+                                            :par-time    "5:30"}
+                                           {:name        "Heck"
+                                            :short-name  "MAP28"
+                                            :authors     ["Milo Casali"]
+                                            :sound-track "AimShootKill"
+                                            :par-time    "7:00"}
+                                           {:name        "River Styx"
+                                            :short-name  "MAP29"
+                                            :authors     ["Jimmy Sieben"]
+                                            :sound-track "Death's Bells"
+                                            :par-time    "5:00"}
+                                           {:name        "Last Call"
+                                            :short-name  "MAP30"
+                                            :authors     ["Jimmy Sieben"]
+                                            :sound-track "Into The Beast's Belly"
+                                            :par-time    "3:00"}]}}
+                            {:secret {:name   "Secret levels"
+                                      :levels [{:name        "Pharaoh"
+                                                :short-name  "MAP31"
+                                                :authors     ["Dario Casali"]
+                                                :sound-track "Legion Of The Lost"
+                                                :par-time    "2:00"
+                                                :secret-exit true
+                                                :secret      true}
+                                               {:name        "Caribbean"
+                                                :short-name  "MAP32"
+                                                :authors     ["Dario Casali"]
+                                                :sound-track "Into Sandy's City"
+                                                :par-time    "0:30"
+                                                :secret      true}]}}]}}
+         {:plutonia {:name      "The Plutonia Experiment"
+                     :file-name "PLUTONIA.WAD"
+                     :episodes  [{:e1 {:name   "Initial Earth levels"
+                                       :levels [{:name        "Congo"
+                                                 :short-name  "MAP01"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "The Imp's Song"
+                                                 :par-time    "0:30"}
+                                                {:name        "Well of Souls"
+                                                 :short-name  "MAP02"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Dark Halls"
+                                                 :par-time    "1:30"}
+                                                {:name        "Aztec"
+                                                 :short-name  "MAP03"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "On the Hunt"
+                                                 :par-time    "2:00"}
+                                                {:name        "Caged"
+                                                 :short-name  "MAP04"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Kitchen Ace (And Taking Names)"
+                                                 :par-time    "2:00"}
+                                                {:name        "Ghost Town"
+                                                 :short-name  "MAP05"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Hiding The Secrets"
+                                                 :par-time    "1:30"}
+                                                {:name        "Baron's Lair"
+                                                 :short-name  "MAP06"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Sign Of Evil"
+                                                 :par-time    "2:30"}]}}
+                                 {:e2 {:name   "Later Earth levels"
+                                       :levels [{:name        "Caughtyard"
+                                                 :short-name  "MAP07"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "I Sawed The Demons"
+                                                 :par-time    "2:00"}
+                                                {:name        "Realm"
+                                                 :short-name  "MAP08"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "The Demons From Adrian's Pen"
+                                                 :par-time    "2:00"}
+                                                {:name        "Abattoire"
+                                                 :short-name  "MAP09"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Deep Into The Code"
+                                                 :par-time    "4:30"}
+                                                {:name        "Onslaught"
+                                                 :short-name  "MAP10"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Demons On The Prey"
+                                                 :par-time    "1:30"}
+                                                {:name        "Hunted"
+                                                 :short-name  "MAP11"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Sweet Little Dead Bunny"
+                                                 :par-time    "3:30"}]}}
+                                 {:e3 {:name   "Hellish levels"
+                                       :levels [{:name        "Speed"
+                                                 :short-name  "MAP12"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Facing The Spider"
+                                                 :par-time    "2:30"}
+                                                {:name        "The Crypt"
+                                                 :short-name  "MAP13"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Donna To The Rescue"
+                                                 :par-time    "2:30"}
+                                                {:name        "Genesis"
+                                                 :short-name  "MAP14"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Nobody Told Me About Id"
+                                                 :par-time    "2:30"}
+                                                {:name        "The Twilight"
+                                                 :short-name  "MAP15"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Waltz Of The Demons"
+                                                 :par-time    "3:30"
+                                                 :secret-exit true}
+                                                {:name        "The Omen"
+                                                 :short-name  "MAP16"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Untitled (Mouth For War)"
+                                                 :par-time    "2:30"}
+                                                {:name        "Compound"
+                                                 :short-name  "MAP17"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "At Doom's Gate"
+                                                 :par-time    "7:00"}
+                                                {:name        "Neurosphere"
+                                                 :short-name  "MAP18"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Demons On The Prey"
+                                                 :par-time    "2:30"}
+                                                {:name        "NME"
+                                                 :short-name  "MAP19"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Suspense"
+                                                 :par-time    "2:30"}
+                                                {:name        "The Death Domain"
+                                                 :short-name  "MAP20"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Message For The Arch-Vile"
+                                                 :par-time    "2:30"}]}}
+                                 {:e4 {:name   "Devil hive levels"
+                                       :levels [{:name        "Slayer"
+                                                 :short-name  "MAP21"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Doom II intermission text screen"
+                                                 :par-time    "4:00"}
+                                                {:name        "Impossible Mission"
+                                                 :short-name  "MAP22"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "The Dave D. Taylor Blues"
+                                                 :par-time    "2:30"}
+                                                {:name        "Tombstone"
+                                                 :short-name  "MAP23"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Bye Bye American Pie"
+                                                 :par-time    "3:00"}
+                                                {:name        "The Final Frontier"
+                                                 :short-name  "MAP24"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "In the Dark"
+                                                 :par-time    "2:30"}
+                                                {:name        "The Temple of Darkness"
+                                                 :short-name  "MAP25"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Adrian's Asleep"
+                                                 :par-time    "2:30"}
+                                                {:name        "Bunker"
+                                                 :short-name  "MAP26"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "Message For The Archvile"
+                                                 :par-time    "5:00"}
+                                                {:name        "Anti-Christ"
+                                                 :short-name  "MAP27"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "I Sawed The Demons"
+                                                 :par-time    "5:30"}
+                                                {:name        "The Sewers"
+                                                 :short-name  "MAP28"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "The Demons From Adrian's Pen"
+                                                 :par-time    "7:00"}
+                                                {:name        "Odyssey of Noises"
+                                                 :short-name  "MAP29"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "At Doom's Gate"
+                                                 :par-time    "5:00"}
+                                                {:name        "The Gateway of Hell"
+                                                 :short-name  "MAP30"
+                                                 :authors     ["Dario Casali" "Milo Casali"]
+                                                 :sound-track "The End of DOOM"
+                                                 :par-time    "3:00"}]}}
+                                 {:secret {:name   "Secret levels"
+                                           :levels [{:name        "Cyberden"
+                                                     :short-name  "MAP31"
+                                                     :authors     ["Dario Casali" "Milo Casali"]
+                                                     :sound-track "Sign Of Evil"
+                                                     :par-time    "2:00"
+                                                     :secret-exit true
+                                                     :secret      true}
+                                                    {:name        "Go 2 It"
+                                                     :short-name  "MAP32"
+                                                     :authors     ["Dario Casali" "Milo Casali"]
+                                                     :sound-track "Nobody Told Me About Id"
+                                                     :par-time    "0:30"
+                                                     :secret      true}]}}]}}]}
