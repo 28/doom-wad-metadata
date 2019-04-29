@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <iwads>
     <doom>
         <name>The Ultimate DOOM</name>
@@ -11,6 +12,15 @@
                     <authors>John Romero</authors>
                     <sound-track>At Doom's Gate</sound-track>
                     <par-time>0:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>143</things>
+                            <vertexes>391</vertexes>
+                            <linedefs>486</linedefs>
+                            <sidedefs>666</sidedefs>
+                            <sectors>88</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Nuclear Plant</name>
@@ -18,6 +28,15 @@
                     <authors>John Romero</authors>
                     <sound-track>The Imp's Song</sound-track>
                     <par-time>1:15</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>262</things>
+                            <vertexes>812</vertexes>
+                            <linedefs>1033</linedefs>
+                            <sidedefs>1323</sidedefs>
+                            <sectors>200</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Toxin Refinery</name>
@@ -26,6 +45,15 @@
                     <sound-track>Dark Halls</sound-track>
                     <par-time>2:00</par-time>
                     <secret-exit>true</secret-exit>
+                    <statistics>
+                        <map-data>
+                            <things>380</things>
+                            <vertexes>835</vertexes>
+                            <linedefs>1026</linedefs>
+                            <sidedefs>1326</sidedefs>
+                            <sectors>177</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Command Control</name>
@@ -34,6 +62,15 @@
                     <authors>John Romero</authors>
                     <sound-track>Kitchen Ace</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>254</things>
+                            <vertexes>673</vertexes>
+                            <linedefs>830</linedefs>
+                            <sidedefs>1054</sidedefs>
+                            <sectors>139</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Phobos Lab</name>
@@ -41,6 +78,15 @@
                     <authors>John Romero</authors>
                     <sound-track>Suspense</sound-track>
                     <par-time>2:45</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>293</things>
+                            <vertexes>665</vertexes>
+                            <linedefs>825</linedefs>
+                            <sidedefs>1053</sidedefs>
+                            <sectors>143</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Central Processing</name>
@@ -48,6 +94,15 @@
                     <authors>John Romero</authors>
                     <sound-track>On The Hunt</sound-track>
                     <par-time>3:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>463</things>
+                            <vertexes>1081</vertexes>
+                            <linedefs>1352</linedefs>
+                            <sidedefs>1727</sidedefs>
+                            <sectors>250</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Computer Station</name>
@@ -55,6 +110,15 @@
                     <authors>John Romero</authors>
                     <sound-track>Demons On The Prey</sound-track>
                     <par-time>3:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>358</things>
+                            <vertexes>763</vertexes>
+                            <linedefs>958</linedefs>
+                            <sidedefs>1223</sidedefs>
+                            <sectors>170</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Phobos Anomaly</name>
@@ -63,6 +127,15 @@
                     <authors>Tom Hall</authors>
                     <sound-track>Sign Of Evil</sound-track>
                     <par-time>0:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>126</things>
+                            <vertexes>264</vertexes>
+                            <linedefs>333</linedefs>
+                            <sidedefs>511</sidedefs>
+                            <sectors>74</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Military Base</name>
@@ -71,6 +144,15 @@
                     <sound-track>Hiding the Secrets</sound-track>
                     <par-time>2:45</par-time>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>237</things>
+                            <vertexes>509</vertexes>
+                            <linedefs>653</linedefs>
+                            <sidedefs>902</sidedefs>
+                            <sectors>147</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e1>
         </episodes>
@@ -84,6 +166,15 @@
                     <authors>Tom Hall</authors>
                     <sound-track>I Sawed The Demons</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>127</things>
+                            <vertexes>327</vertexes>
+                            <linedefs>415</linedefs>
+                            <sidedefs>550</sidedefs>
+                            <sectors>92</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Containment Area</name>
@@ -92,6 +183,15 @@
                     <authors>Tom Hall</authors>
                     <sound-track>The Demons From Adrian's Pen</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>311</things>
+                            <vertexes>1352</vertexes>
+                            <linedefs>1610</linedefs>
+                            <sidedefs>2076</sidedefs>
+                            <sectors>245</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Refinery</name>
@@ -100,6 +200,15 @@
                     <authors>Tom Hall</authors>
                     <sound-track>Intermission from DOOM</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>229</things>
+                            <vertexes>810</vertexes>
+                            <linedefs>953</linedefs>
+                            <sidedefs>1145</sidedefs>
+                            <sectors>128</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Deimos Lab</name>
@@ -108,6 +217,15 @@
                     <authors>Tom Hall</authors>
                     <sound-track>They're Going To Get You</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>265</things>
+                            <vertexes>909</vertexes>
+                            <linedefs>1117</linedefs>
+                            <sidedefs>1439</sidedefs>
+                            <sectors>205</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Command Center</name>
@@ -116,6 +234,15 @@
                     <sound-track>Demons on the Prey</sound-track>
                     <par-time>1:30</par-time>
                     <secret-exit>true</secret-exit>
+                    <statistics>
+                        <map-data>
+                            <things>326</things>
+                            <vertexes>1109</vertexes>
+                            <linedefs>1353</linedefs>
+                            <sidedefs>1710</sidedefs>
+                            <sectors>241</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Halls of the Damned</name>
@@ -123,6 +250,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Sinister</sound-track>
                     <par-time>6:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>326</things>
+                            <vertexes>886</vertexes>
+                            <linedefs>1094</linedefs>
+                            <sidedefs>1324</sidedefs>
+                            <sectors>181</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Spawning Vats</name>
@@ -131,12 +267,30 @@
                     <authors>Tom Hall</authors>
                     <sound-track>Waltz of the Demons</sound-track>
                     <par-time>4:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>235</things>
+                            <vertexes>1451</vertexes>
+                            <linedefs>1764</linedefs>
+                            <sidedefs>2252</sidedefs>
+                            <sectors>323</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Tower of Babel</name>
                     <short-name>E2M8</short-name>
                     <authors>Sandy Petersen</authors>
                     <sound-track>Nobody Told Me About Id</sound-track>
+                    <statistics>
+                        <map-data>
+                            <things>66</things>
+                            <vertexes>186</vertexes>
+                            <linedefs>218</linedefs>
+                            <sidedefs>278</sidedefs>
+                            <sectors>27</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Fortress of Mystery</name>
@@ -145,6 +299,15 @@
                     <sound-track>Untitled (Mouth For War)</sound-track>
                     <par-time>2:50</par-time>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>53</things>
+                            <vertexes>150</vertexes>
+                            <linedefs>166</linedefs>
+                            <sidedefs>198</sidedefs>
+                            <sectors>19</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e2>
         </episodes>
@@ -157,6 +320,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Untitled</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>92</things>
+                            <vertexes>170</vertexes>
+                            <linedefs>208</linedefs>
+                            <sidedefs>274</sidedefs>
+                            <sectors>39</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Slough of Despair</name>
@@ -164,6 +336,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Donna to the Rescue</sound-track>
                     <par-time>0:45</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>208</things>
+                            <vertexes>426</vertexes>
+                            <linedefs>494</linedefs>
+                            <sidedefs>625</sidedefs>
+                            <sectors>68</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Pandemonium</name>
@@ -172,6 +353,15 @@
                     <authors>Tom Hall</authors>
                     <sound-track>Deep Into The Code</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>209</things>
+                            <vertexes>905</vertexes>
+                            <linedefs>1102</linedefs>
+                            <sidedefs>1394</sidedefs>
+                            <sectors>192</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>House of Pain</name>
@@ -179,6 +369,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Sign of Evil</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>374</things>
+                            <vertexes>907</vertexes>
+                            <linedefs>1099</linedefs>
+                            <sidedefs>1369</sidedefs>
+                            <sectors>186</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Unholy Cathedral</name>
@@ -186,6 +385,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Demons on the Prey</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>291</things>
+                            <vertexes>1132</vertexes>
+                            <linedefs>1416</linedefs>
+                            <sidedefs>1846</sidedefs>
+                            <sectors>268</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Mt. Erebus</name>
@@ -194,6 +402,15 @@
                     <sound-track>On the Hunt</sound-track>
                     <par-time>1:30</par-time>
                     <secret-exit>true</secret-exit>
+                    <statistics>
+                        <map-data>
+                            <things>335</things>
+                            <vertexes>550</vertexes>
+                            <linedefs>687</linedefs>
+                            <sidedefs>949</sidedefs>
+                            <sectors>125</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Limbo</name>
@@ -202,12 +419,30 @@
                     <authors>Tom Hall</authors>
                     <sound-track>Waltz of the Demons</sound-track>
                     <par-time>2:45</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>154</things>
+                            <vertexes>807</vertexes>
+                            <linedefs>982</linedefs>
+                            <sidedefs>1247</sidedefs>
+                            <sectors>166</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Dis</name>
                     <short-name>E3M8</short-name>
                     <authors>Sandy Petersen</authors>
                     <sound-track>Facing The Spider</sound-track>
+                    <statistics>
+                        <map-data>
+                            <things>58</things>
+                            <vertexes>105</vertexes>
+                            <linedefs>122</linedefs>
+                            <sidedefs>173</sidedefs>
+                            <sectors>17</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Warrens</name>
@@ -216,6 +451,15 @@
                     <sound-track>Hiding the Secrets</sound-track>
                     <par-time>2:15</par-time>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>197</things>
+                            <vertexes>402</vertexes>
+                            <linedefs>474</linedefs>
+                            <sidedefs>589</sidedefs>
+                            <sectors>71</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e3>
         </episodes>
@@ -227,6 +471,15 @@
                     <short-name>E4M1</short-name>
                     <authors>American McGee</authors>
                     <sound-track>Sign of Evil</sound-track>
+                    <statistics>
+                        <map-data>
+                            <things>141</things>
+                            <vertexes>389</vertexes>
+                            <linedefs>471</linedefs>
+                            <sidedefs>642</sidedefs>
+                            <sectors>81</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Perfect Hatred</name>
@@ -234,18 +487,45 @@
                     <authors>John Romero</authors>
                     <sound-track>Donna to the Rescue</sound-track>
                     <secret-exit>true</secret-exit>
+                    <statistics>
+                        <map-data>
+                            <things>227</things>
+                            <vertexes>557</vertexes>
+                            <linedefs>685</linedefs>
+                            <sidedefs>1014</sidedefs>
+                            <sectors>122</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Sever the Wicked</name>
                     <short-name>E4M3</short-name>
                     <authors>Shawn Green</authors>
                     <sound-track>Deep into the Code</sound-track>
+                    <statistics>
+                        <map-data>
+                            <things>384</things>
+                            <vertexes>657</vertexes>
+                            <linedefs>822</linedefs>
+                            <sidedefs>1216</sidedefs>
+                            <sectors>156</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Unruly Evil</name>
                     <short-name>E4M4</short-name>
                     <authors>American McGee</authors>
                     <sound-track>Suspense</sound-track>
+                    <statistics>
+                        <map-data>
+                            <things>153</things>
+                            <vertexes>539</vertexes>
+                            <linedefs>648</linedefs>
+                            <sidedefs>925</sidedefs>
+                            <sectors>123</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>They Will Repent</name>
@@ -253,6 +533,15 @@
                     <authors>Theresa Chasar</authors>
                     <authors>Tim Willits</authors>
                     <sound-track>Waltz of the Demons</sound-track>
+                    <statistics>
+                        <map-data>
+                            <things>267</things>
+                            <vertexes>876</vertexes>
+                            <linedefs>1068</linedefs>
+                            <sidedefs>1705</sidedefs>
+                            <sectors>170</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Against Thee Wickedly</name>
@@ -260,6 +549,15 @@
                     <authors>John Romero</authors>
                     <sound-track>They're Going To Get You</sound-track>
                     <par-time>6:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>295</things>
+                            <vertexes>1131</vertexes>
+                            <linedefs>1355</linedefs>
+                            <sidedefs>1963</sidedefs>
+                            <sectors>224</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>And Hell Followed</name>
@@ -267,12 +565,30 @@
                     <authors>John W. Anderson</authors>
                     <sound-track>Sinister</sound-track>
                     <par-time>2:15</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>258</things>
+                            <vertexes>1099</vertexes>
+                            <linedefs>1371</linedefs>
+                            <sidedefs>1981</sidedefs>
+                            <sectors>288</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Unto the Cruel</name>
                     <short-name>E4M8</short-name>
                     <authors>Shawn Green</authors>
                     <sound-track>Demons on the Prey</sound-track>
+                    <statistics>
+                        <map-data>
+                            <things>315</things>
+                            <vertexes>1041</vertexes>
+                            <linedefs>1280</linedefs>
+                            <sidedefs>1908</sidedefs>
+                            <sectors>223</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Fear</name>
@@ -280,6 +596,15 @@
                     <authors>Tim Willits</authors>
                     <sound-track>Hiding the Secrets</sound-track>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>247</things>
+                            <vertexes>1344</vertexes>
+                            <linedefs>1644</linedefs>
+                            <sidedefs>2417</sidedefs>
+                            <sectors>248</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e4>
         </episodes>
@@ -296,6 +621,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Running From Evil</sound-track>
                     <par-time>0:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>69</things>
+                            <vertexes>383</vertexes>
+                            <linedefs>370</linedefs>
+                            <sidedefs>529</sidedefs>
+                            <sectors>59</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Underhalls</name>
@@ -303,6 +637,15 @@
                     <authors>American McGee</authors>
                     <sound-track>The Healer Stalks</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>173</things>
+                            <vertexes>501</vertexes>
+                            <linedefs>523</linedefs>
+                            <sidedefs>715</sidedefs>
+                            <sectors>97</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Gantlet</name>
@@ -310,6 +653,15 @@
                     <authors>American McGee</authors>
                     <sound-track>Countdown To Death</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>148</things>
+                            <vertexes>544</vertexes>
+                            <linedefs>594</linedefs>
+                            <sidedefs>894</sidedefs>
+                            <sectors>121</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Focus</name>
@@ -317,6 +669,15 @@
                     <authors>American McGee</authors>
                     <sound-track>Between Levels</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>138</things>
+                            <vertexes>494</vertexes>
+                            <linedefs>591</linedefs>
+                            <sidedefs>780</sidedefs>
+                            <sectors>122</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Waste Tunnels</name>
@@ -324,6 +685,15 @@
                     <authors>American McGee</authors>
                     <sound-track>DOOM</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>217</things>
+                            <vertexes>864</vertexes>
+                            <linedefs>958</linedefs>
+                            <sidedefs>1291</sidedefs>
+                            <sectors>176</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Crusher</name>
@@ -331,6 +701,15 @@
                     <authors>American McGee</authors>
                     <sound-track>In The Dark</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>247</things>
+                            <vertexes>935</vertexes>
+                            <linedefs>1011</linedefs>
+                            <sidedefs>1409</sidedefs>
+                            <sectors>183</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e1>
         </episodes>
@@ -344,6 +723,15 @@
                     <authors>American McGee</authors>
                     <sound-track>Shawn's Got The Shotgun</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>98</things>
+                            <vertexes>195</vertexes>
+                            <linedefs>188</linedefs>
+                            <sidedefs>283</sidedefs>
+                            <sectors>29</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Tricks and Traps</name>
@@ -351,6 +739,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>The Dave D. Taylor Blues</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>242</things>
+                            <vertexes>574</vertexes>
+                            <linedefs>649</linedefs>
+                            <sidedefs>868</sidedefs>
+                            <sectors>127</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Pit</name>
@@ -358,6 +755,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Into Sandy's City</sound-track>
                     <par-time>4:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>392</things>
+                            <vertexes>617</vertexes>
+                            <linedefs>640</linedefs>
+                            <sidedefs>877</sidedefs>
+                            <sectors>131</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Refueling Base</name>
@@ -366,13 +772,32 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>The Demon's Dead</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>509</things>
+                            <vertexes>961</vertexes>
+                            <linedefs>1054</linedefs>
+                            <sidedefs>1312</sidedefs>
+                            <sectors>186</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Circle of Death</name>
+                    <alternate-name>'O' of Destruction!</alternate-name>
                     <short-name>MAP11</short-name>
                     <authors>John Romero</authors>
                     <sound-track>The Healer Stalks</sound-track>
                     <par-time>3:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>238</things>
+                            <vertexes>780</vertexes>
+                            <linedefs>850</linedefs>
+                            <sidedefs>1195</sidedefs>
+                            <sectors>143</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e2>
         </episodes>
@@ -385,6 +810,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>In The Dark</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>195</things>
+                            <vertexes>774</vertexes>
+                            <linedefs>774</linedefs>
+                            <sidedefs>1094</sidedefs>
+                            <sectors>162</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Downtown</name>
@@ -392,6 +826,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>DOOM</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>312</things>
+                            <vertexes>1103</vertexes>
+                            <linedefs>1196</linedefs>
+                            <sidedefs>1670</sidedefs>
+                            <sectors>247</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Inmost Dens</name>
@@ -399,6 +842,15 @@
                     <authors>American McGee</authors>
                     <sound-track>The Dave D. Taylor Blues</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>173</things>
+                            <vertexes>1429</vertexes>
+                            <linedefs>1681</linedefs>
+                            <sidedefs>2587</sidedefs>
+                            <sectors>348</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Industrial Zone</name>
@@ -407,6 +859,15 @@
                     <sound-track>Running From Evil</sound-track>
                     <par-time>3:30</par-time>
                     <secret-exit>true</secret-exit>
+                    <statistics>
+                        <map-data>
+                            <things>0</things>
+                            <vertexes>0</vertexes>
+                            <linedefs>0</linedefs>
+                            <sidedefs>0</sidedefs>
+                            <sectors>0</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Suburbs</name>
@@ -414,6 +875,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>The Demon's Dead</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>249</things>
+                            <vertexes>754</vertexes>
+                            <linedefs>778</linedefs>
+                            <sidedefs>1088</sidedefs>
+                            <sectors>142</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Tenements</name>
@@ -421,6 +891,15 @@
                     <authors>John Romero</authors>
                     <sound-track>The Healer Stalks</sound-track>
                     <par-time>7:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>421</things>
+                            <vertexes>1107</vertexes>
+                            <linedefs>1290</linedefs>
+                            <sidedefs>1847</sidedefs>
+                            <sectors>274</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Courtyard</name>
@@ -428,6 +907,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Waiting For Romero To Play</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>494</things>
+                            <vertexes>806</vertexes>
+                            <linedefs>774</linedefs>
+                            <sidedefs>986</sidedefs>
+                            <sectors>108</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Citadel</name>
@@ -435,6 +923,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Shawn's Got The Shotgun</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>437</things>
+                            <vertexes>1252</vertexes>
+                            <linedefs>1255</linedefs>
+                            <sidedefs>1821</sidedefs>
+                            <sectors>251</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Gotcha!</name>
@@ -442,6 +939,15 @@
                     <authors>John Romero</authors>
                     <sound-track>Message For The Archvile</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>256</things>
+                            <vertexes>1024</vertexes>
+                            <linedefs>1015</linedefs>
+                            <sidedefs>1448</sidedefs>
+                            <sectors>191</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e3>
         </episodes>
@@ -454,6 +960,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Countdown To Death</sound-track>
                     <par-time>4:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>217</things>
+                            <vertexes>396</vertexes>
+                            <linedefs>327</linedefs>
+                            <sidedefs>538</sidedefs>
+                            <sectors>61</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Catacombs</name>
@@ -461,6 +976,15 @@
                     <authors>American McGee</authors>
                     <sound-track>The Dave D. Taylor Blues</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>121</things>
+                            <vertexes>590</vertexes>
+                            <linedefs>657</linedefs>
+                            <sidedefs>940</sidedefs>
+                            <sectors>140</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Barrels o' Fun</name>
@@ -468,6 +992,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Bye Bye American Pie</sound-track>
                     <par-time>3:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>431</things>
+                            <vertexes>394</vertexes>
+                            <linedefs>391</linedefs>
+                            <sidedefs>518</sidedefs>
+                            <sectors>69</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Chasm</name>
@@ -475,6 +1008,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>In The Dark</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>364</things>
+                            <vertexes>1174</vertexes>
+                            <linedefs>1109</linedefs>
+                            <sidedefs>1701</sidedefs>
+                            <sectors>181</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Bloodfalls</name>
@@ -482,6 +1024,15 @@
                     <authors>Shawn Green</authors>
                     <sound-track>Adrian's Asleep</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>276</things>
+                            <vertexes>697</vertexes>
+                            <linedefs>762</linedefs>
+                            <sidedefs>1079</sidedefs>
+                            <sectors>147</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Abandoned Mines</name>
@@ -489,6 +1040,15 @@
                     <authors>John Romero</authors>
                     <sound-track>Message For The Archvile</sound-track>
                     <par-time>5:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>294</things>
+                            <vertexes>818</vertexes>
+                            <linedefs>850</linedefs>
+                            <sidedefs>1184</sidedefs>
+                            <sectors>126</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Monster Condo</name>
@@ -496,6 +1056,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Waiting For Romero To Play</sound-track>
                     <par-time>5:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>490</things>
+                            <vertexes>864</vertexes>
+                            <linedefs>946</linedefs>
+                            <sidedefs>1047</sidedefs>
+                            <sectors>187</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Spirit World</name>
@@ -503,6 +1072,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Getting Too Tense</sound-track>
                     <par-time>7:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>266</things>
+                            <vertexes>749</vertexes>
+                            <linedefs>745</linedefs>
+                            <sidedefs>1057</sidedefs>
+                            <sectors>116</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Living End</name>
@@ -510,6 +1088,15 @@
                     <authors>John Romero</authors>
                     <sound-track>Shawn's Got The Shotgun</sound-track>
                     <par-time>5:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>276</things>
+                            <vertexes>1180</vertexes>
+                            <linedefs>1152</linedefs>
+                            <sidedefs>1653</sidedefs>
+                            <sectors>205</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Icon of Sin</name>
@@ -517,6 +1104,15 @@
                     <authors>Sandy Petersen</authors>
                     <sound-track>Opening To Hell</sound-track>
                     <par-time>3:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>95</things>
+                            <vertexes>82</vertexes>
+                            <linedefs>93</linedefs>
+                            <sidedefs>131</sidedefs>
+                            <sectors>22</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e4>
         </episodes>
@@ -531,6 +1127,15 @@
                     <par-time>2:00</par-time>
                     <secret-exit>true</secret-exit>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>317</things>
+                            <vertexes>635</vertexes>
+                            <linedefs>684</linedefs>
+                            <sidedefs>783</sidedefs>
+                            <sectors>80</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Grosse</name>
@@ -539,6 +1144,15 @@
                     <sound-track>The Ultimate Challenge</sound-track>
                     <par-time>0:30</par-time>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>111</things>
+                            <vertexes>229</vertexes>
+                            <linedefs>216</linedefs>
+                            <sidedefs>276</sidedefs>
+                            <sectors>20</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </secret>
         </episodes>
@@ -555,6 +1169,15 @@
                     <authors>Tom Mustaine</authors>
                     <sound-track>Sadistic</sound-track>
                     <par-time>0:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>84</things>
+                            <vertexes>555</vertexes>
+                            <linedefs>591</linedefs>
+                            <sidedefs>476</sidedefs>
+                            <sectors>134</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Human BBQ</name>
@@ -562,6 +1185,15 @@
                     <authors>John Wakelin</authors>
                     <sound-track>Smells Like Burning Corpse</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>249</things>
+                            <vertexes>813</vertexes>
+                            <linedefs>843</linedefs>
+                            <sidedefs>587</sidedefs>
+                            <sectors>155</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Power Control</name>
@@ -569,6 +1201,15 @@
                     <authors>John Minadeo</authors>
                     <sound-track>Message For The Archvile</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>243</things>
+                            <vertexes>1057</vertexes>
+                            <linedefs>1369</linedefs>
+                            <sidedefs>1243</sidedefs>
+                            <sectors>344</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Wormhole</name>
@@ -576,6 +1217,15 @@
                     <authors>Ty Halderman</authors>
                     <sound-track>Death's Bells</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>412</things>
+                            <vertexes>1416</vertexes>
+                            <linedefs>1604</linedefs>
+                            <sidedefs>1377</sidedefs>
+                            <sectors>382</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Hanger</name>
@@ -583,6 +1233,15 @@
                     <authors>Jim Dethlefsen</authors>
                     <sound-track>More</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>292</things>
+                            <vertexes>1437</vertexes>
+                            <linedefs>1642</linedefs>
+                            <sidedefs>846</sidedefs>
+                            <sectors>295</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Open Season</name>
@@ -590,6 +1249,15 @@
                     <authors>Ty Halderman</authors>
                     <sound-track>Agony Rhapsody</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>180</things>
+                            <vertexes>894</vertexes>
+                            <linedefs>1004</linedefs>
+                            <sidedefs>553</sidedefs>
+                            <sectors>189</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e1>
         </episodes>
@@ -602,6 +1270,15 @@
                     <authors>Andrew Dowswell</authors>
                     <sound-track>Soldier Of Chaos</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>487</things>
+                            <vertexes>1023</vertexes>
+                            <linedefs>1026</linedefs>
+                            <sidedefs>489</sidedefs>
+                            <sectors>175</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Metal</name>
@@ -609,6 +1286,15 @@
                     <authors>John Minadeo</authors>
                     <sound-track>Into The Beast's Belly</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>419</things>
+                            <vertexes>1445</vertexes>
+                            <linedefs>1570</linedefs>
+                            <sidedefs>1034</sidedefs>
+                            <sectors>421</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Stronghold</name>
@@ -616,6 +1302,15 @@
                     <authors>Ty Halderman</authors>
                     <sound-track>Sadistic</sound-track>
                     <par-time>4:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>657</things>
+                            <vertexes>1925</vertexes>
+                            <linedefs>2214</linedefs>
+                            <sidedefs>1613</sidedefs>
+                            <sectors>439</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Redemption</name>
@@ -623,6 +1318,15 @@
                     <authors>Tom Mustaine</authors>
                     <sound-track>Infinite</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>152</things>
+                            <vertexes>963</vertexes>
+                            <linedefs>1189</linedefs>
+                            <sidedefs>751</sidedefs>
+                            <sectors>285</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Storage Facility</name>
@@ -630,6 +1334,15 @@
                     <authors>Dean Johnson</authors>
                     <sound-track>Let's Kill At Will</sound-track>
                     <par-time>3:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>422</things>
+                            <vertexes>1497</vertexes>
+                            <linedefs>1617</linedefs>
+                            <sidedefs>989</sidedefs>
+                            <sectors>274</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e2>
         </episodes>
@@ -642,6 +1355,15 @@
                     <authors>Jim Lowell</authors>
                     <sound-track>The Dave D. Taylor Blues</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>262</things>
+                            <vertexes>1605</vertexes>
+                            <linedefs>1720</linedefs>
+                            <sidedefs>861</sidedefs>
+                            <sectors>315</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Nukage Processing</name>
@@ -649,6 +1371,15 @@
                     <authors>Brian Kidby</authors>
                     <sound-track>Death's Bells</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>406</things>
+                            <vertexes>1423</vertexes>
+                            <linedefs>1581</linedefs>
+                            <sidedefs>1057</sidedefs>
+                            <sectors>260</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Steel Works</name>
@@ -656,6 +1387,15 @@
                     <authors>Robin Patenall</authors>
                     <sound-track>Cold Subtleness</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>415</things>
+                            <vertexes>1338</vertexes>
+                            <linedefs>1521</linedefs>
+                            <sidedefs>1026</sidedefs>
+                            <sectors>315</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Dead Zone</name>
@@ -664,6 +1404,15 @@
                     <sound-track>Smells Like Burning Corpse</sound-track>
                     <par-time>3:30</par-time>
                     <secret-exit>true</secret-exit>
+                    <statistics>
+                        <map-data>
+                            <things>364</things>
+                            <vertexes>1310</vertexes>
+                            <linedefs>1421</linedefs>
+                            <sidedefs>1409</sidedefs>
+                            <sectors>336</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Deepest Reaches</name>
@@ -671,6 +1420,15 @@
                     <authors>Andre Arsenault</authors>
                     <sound-track>Blood Jungle</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>408</things>
+                            <vertexes>2386</vertexes>
+                            <linedefs>2370</linedefs>
+                            <sidedefs>1874</sidedefs>
+                            <sectors>369</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Processing Area</name>
@@ -678,6 +1436,15 @@
                     <authors>Tom Mustaine</authors>
                     <sound-track>More</sound-track>
                     <par-time>7:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>260</things>
+                            <vertexes>938</vertexes>
+                            <linedefs>1186</linedefs>
+                            <sidedefs>880</sidedefs>
+                            <sectors>295</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Mill</name>
@@ -685,6 +1452,15 @@
                     <authors>Ty Halderman</authors>
                     <sound-track>Infinite</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>499</things>
+                            <vertexes>2451</vertexes>
+                            <linedefs>2642</linedefs>
+                            <sidedefs>1284</sidedefs>
+                            <sectors>370</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Shipping/Respawning</name>
@@ -693,6 +1469,15 @@
                     <authors>Jimmy Sieben</authors>
                     <sound-track>Countdown to Death</sound-track>
                     <par-time>3:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>302</things>
+                            <vertexes>2372</vertexes>
+                            <linedefs>2516</linedefs>
+                            <sidedefs>1547</sidedefs>
+                            <sectors>489</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Central Processing</name>
@@ -700,6 +1485,15 @@
                     <authors>Drake O'Brien</authors>
                     <sound-track>Horizon</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>703</things>
+                            <vertexes>2688</vertexes>
+                            <linedefs>2436</linedefs>
+                            <sidedefs>935</sidedefs>
+                            <sectors>321</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e3>
         </episodes>
@@ -712,6 +1506,15 @@
                     <authors>Drake O'Brien</authors>
                     <sound-track>Into Sandy's City</sound-track>
                     <par-time>4:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>0</things>
+                            <vertexes>0</vertexes>
+                            <linedefs>2397</linedefs>
+                            <sidedefs>916</sidedefs>
+                            <sectors>342</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Habitat</name>
@@ -719,6 +1522,15 @@
                     <authors>Christopher Buteau</authors>
                     <sound-track>AimShootKill</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>362</things>
+                            <vertexes>2275</vertexes>
+                            <linedefs>2074</linedefs>
+                            <sidedefs>1247</sidedefs>
+                            <sectors>403</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Lunar Mining Project</name>
@@ -726,6 +1538,15 @@
                     <authors>Paul Turnbull</authors>
                     <sound-track>Bye Bye American Pie</sound-track>
                     <par-time>3:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>275</things>
+                            <vertexes>1750</vertexes>
+                            <linedefs>1897</linedefs>
+                            <sidedefs>802</sidedefs>
+                            <sectors>304</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Quarry</name>
@@ -733,6 +1554,15 @@
                     <authors>Dean Johnson</authors>
                     <sound-track>Between Levels</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>274</things>
+                            <vertexes>955</vertexes>
+                            <linedefs>961</linedefs>
+                            <sidedefs>696</sidedefs>
+                            <sectors>151</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Baron's Den</name>
@@ -740,6 +1570,15 @@
                     <authors>David Hill</authors>
                     <sound-track>DOOM</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>384</things>
+                            <vertexes>1416</vertexes>
+                            <linedefs>1496</linedefs>
+                            <sidedefs>868</sidedefs>
+                            <sectors>323</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Ballistyx</name>
@@ -748,6 +1587,15 @@
                     <authors>Jim Lowell</authors>
                     <sound-track>Blood Jungle</sound-track>
                     <par-time>5:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>369</things>
+                            <vertexes>1686</vertexes>
+                            <linedefs>1709</linedefs>
+                            <sidedefs>1224</sidedefs>
+                            <sectors>320</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Mount Pain</name>
@@ -755,6 +1603,15 @@
                     <authors>Drake O'Brien</authors>
                     <sound-track>Into the Beast's Belly</sound-track>
                     <par-time>5:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>652</things>
+                            <vertexes>2260</vertexes>
+                            <linedefs>2278</linedefs>
+                            <sidedefs>782</sidedefs>
+                            <sectors>233</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Heck</name>
@@ -762,6 +1619,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>AimShootKill</sound-track>
                     <par-time>7:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>291</things>
+                            <vertexes>1078</vertexes>
+                            <linedefs>1118</linedefs>
+                            <sidedefs>577</sidedefs>
+                            <sectors>102</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>River Styx</name>
@@ -769,6 +1635,15 @@
                     <authors>Jimmy Sieben</authors>
                     <sound-track>Death's Bells</sound-track>
                     <par-time>5:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>417</things>
+                            <vertexes>2233</vertexes>
+                            <linedefs>2511</linedefs>
+                            <sidedefs>1461</sidedefs>
+                            <sectors>477</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Last Call</name>
@@ -776,6 +1651,15 @@
                     <authors>Jimmy Sieben</authors>
                     <sound-track>Into The Beast's Belly</sound-track>
                     <par-time>3:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>339</things>
+                            <vertexes>2015</vertexes>
+                            <linedefs>2038</linedefs>
+                            <sidedefs>976</sidedefs>
+                            <sectors>341</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e4>
         </episodes>
@@ -790,6 +1674,15 @@
                     <par-time>2:00</par-time>
                     <secret-exit>true</secret-exit>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>522</things>
+                            <vertexes>2659</vertexes>
+                            <linedefs>2712</linedefs>
+                            <sidedefs>1297</sidedefs>
+                            <sectors>376</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Caribbean</name>
@@ -798,6 +1691,15 @@
                     <sound-track>Into Sandy's City</sound-track>
                     <par-time>0:30</par-time>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>506</things>
+                            <vertexes>1579</vertexes>
+                            <linedefs>1600</linedefs>
+                            <sidedefs>949</sidedefs>
+                            <sectors>256</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </secret>
         </episodes>
@@ -815,6 +1717,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>The Imp's Song</sound-track>
                     <par-time>0:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>165</things>
+                            <vertexes>989</vertexes>
+                            <linedefs>1130</linedefs>
+                            <sidedefs>697</sidedefs>
+                            <sectors>133</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Well of Souls</name>
@@ -823,6 +1734,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Dark Halls</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>159</things>
+                            <vertexes>886</vertexes>
+                            <linedefs>902</linedefs>
+                            <sidedefs>1281</sidedefs>
+                            <sectors>151</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Aztec</name>
@@ -831,6 +1751,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>On the Hunt</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>214</things>
+                            <vertexes>1255</vertexes>
+                            <linedefs>1241</linedefs>
+                            <sidedefs>735</sidedefs>
+                            <sectors>133</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Caged</name>
@@ -839,6 +1768,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Kitchen Ace (And Taking Names)</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>253</things>
+                            <vertexes>1023</vertexes>
+                            <linedefs>1043</linedefs>
+                            <sidedefs>1557</sidedefs>
+                            <sectors>189</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Ghost Town</name>
@@ -847,6 +1785,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Hiding The Secrets</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>241</things>
+                            <vertexes>998</vertexes>
+                            <linedefs>1069</linedefs>
+                            <sidedefs>579</sidedefs>
+                            <sectors>108</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Baron's Lair</name>
@@ -855,6 +1802,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Sign Of Evil</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>344</things>
+                            <vertexes>1228</vertexes>
+                            <linedefs>1402</linedefs>
+                            <sidedefs>846</sidedefs>
+                            <sectors>225</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e1>
         </episodes>
@@ -868,6 +1824,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>I Sawed The Demons</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>130</things>
+                            <vertexes>514</vertexes>
+                            <linedefs>515</linedefs>
+                            <sidedefs>774</sidedefs>
+                            <sectors>47</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Realm</name>
@@ -876,6 +1841,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>The Demons From Adrian's Pen</sound-track>
                     <par-time>2:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>310</things>
+                            <vertexes>1230</vertexes>
+                            <linedefs>1187</linedefs>
+                            <sidedefs>1744</sidedefs>
+                            <sectors>138</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Abattoire</name>
@@ -884,6 +1858,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Deep Into The Code</sound-track>
                     <par-time>4:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>395</things>
+                            <vertexes>1250</vertexes>
+                            <linedefs>1281</linedefs>
+                            <sidedefs>1941</sidedefs>
+                            <sectors>148</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Onslaught</name>
@@ -892,6 +1875,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Demons On The Prey</sound-track>
                     <par-time>1:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>229</things>
+                            <vertexes>1057</vertexes>
+                            <linedefs>1066</linedefs>
+                            <sidedefs>567</sidedefs>
+                            <sectors>158</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Hunted</name>
@@ -900,6 +1892,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Sweet Little Dead Bunny</sound-track>
                     <par-time>3:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>138</things>
+                            <vertexes>1507</vertexes>
+                            <linedefs>1388</linedefs>
+                            <sidedefs>1885</sidedefs>
+                            <sectors>109</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e2>
         </episodes>
@@ -913,6 +1914,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Facing The Spider</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>293</things>
+                            <vertexes>1162</vertexes>
+                            <linedefs>1211</linedefs>
+                            <sidedefs>1813</sidedefs>
+                            <sectors>174</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Crypt</name>
@@ -921,6 +1931,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Donna To The Rescue</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>205</things>
+                            <vertexes>1193</vertexes>
+                            <linedefs>1197</linedefs>
+                            <sidedefs>1944</sidedefs>
+                            <sectors>173</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Genesis</name>
@@ -929,6 +1948,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Nobody Told Me About Id</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>184</things>
+                            <vertexes>1106</vertexes>
+                            <linedefs>1165</linedefs>
+                            <sidedefs>1692</sidedefs>
+                            <sectors>117</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Twilight</name>
@@ -938,6 +1966,15 @@
                     <sound-track>Waltz Of The Demons</sound-track>
                     <par-time>3:30</par-time>
                     <secret-exit>true</secret-exit>
+                    <statistics>
+                        <map-data>
+                            <things>301</things>
+                            <vertexes>1022</vertexes>
+                            <linedefs>1103</linedefs>
+                            <sidedefs>1599</sidedefs>
+                            <sectors>148</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Omen</name>
@@ -946,6 +1983,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Untitled (Mouth For War)</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>215</things>
+                            <vertexes>1002</vertexes>
+                            <linedefs>989</linedefs>
+                            <sidedefs>1587</sidedefs>
+                            <sectors>105</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Compound</name>
@@ -954,6 +2000,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>At Doom's Gate</sound-track>
                     <par-time>7:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>288</things>
+                            <vertexes>1124</vertexes>
+                            <linedefs>1223</linedefs>
+                            <sidedefs>1820</sidedefs>
+                            <sectors>125</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Neurosphere</name>
@@ -962,6 +2017,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Demons On The Prey</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>248</things>
+                            <vertexes>1397</vertexes>
+                            <linedefs>1556</linedefs>
+                            <sidedefs>2493</sidedefs>
+                            <sectors>185</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>NME</name>
@@ -970,6 +2034,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Suspense</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>273</things>
+                            <vertexes>965</vertexes>
+                            <linedefs>1041</linedefs>
+                            <sidedefs>1476</sidedefs>
+                            <sectors>131</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Death Domain</name>
@@ -978,6 +2051,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Message For The Arch-Vile</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>270</things>
+                            <vertexes>1080</vertexes>
+                            <linedefs>1157</linedefs>
+                            <sidedefs>1711</sidedefs>
+                            <sectors>192</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e3>
         </episodes>
@@ -991,6 +2073,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Doom II intermission text screen</sound-track>
                     <par-time>4:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>193</things>
+                            <vertexes>456</vertexes>
+                            <linedefs>467</linedefs>
+                            <sidedefs>719</sidedefs>
+                            <sectors>58</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Impossible Mission</name>
@@ -999,6 +2090,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>The Dave D. Taylor Blues</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>496</things>
+                            <vertexes>1680</vertexes>
+                            <linedefs>1709</linedefs>
+                            <sidedefs>2559</sidedefs>
+                            <sectors>175</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Tombstone</name>
@@ -1007,6 +2107,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Bye Bye American Pie</sound-track>
                     <par-time>3:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>547</things>
+                            <vertexes>1916</vertexes>
+                            <linedefs>1958</linedefs>
+                            <sidedefs>2961</sidedefs>
+                            <sectors>245</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Final Frontier</name>
@@ -1015,6 +2124,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>In the Dark</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>294</things>
+                            <vertexes>951</vertexes>
+                            <linedefs>998</linedefs>
+                            <sidedefs>1576</sidedefs>
+                            <sectors>149</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Temple of Darkness</name>
@@ -1023,6 +2141,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Adrian's Asleep</sound-track>
                     <par-time>2:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>418</things>
+                            <vertexes>1563</vertexes>
+                            <linedefs>1475</linedefs>
+                            <sidedefs>2222</sidedefs>
+                            <sectors>146</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Bunker</name>
@@ -1031,6 +2158,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>Message For The Archvile</sound-track>
                     <par-time>5:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>364</things>
+                            <vertexes>1746</vertexes>
+                            <linedefs>1664</linedefs>
+                            <sidedefs>2275</sidedefs>
+                            <sectors>203</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Anti-Christ</name>
@@ -1039,6 +2175,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>I Sawed The Demons</sound-track>
                     <par-time>5:30</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>287</things>
+                            <vertexes>1314</vertexes>
+                            <linedefs>1343</linedefs>
+                            <sidedefs>2116</sidedefs>
+                            <sectors>167</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Sewers</name>
@@ -1047,6 +2192,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>The Demons From Adrian's Pen</sound-track>
                     <par-time>7:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>508</things>
+                            <vertexes>2454</vertexes>
+                            <linedefs>2519</linedefs>
+                            <sidedefs>3700</sidedefs>
+                            <sectors>297</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Odyssey of Noises</name>
@@ -1055,6 +2209,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>At Doom's Gate</sound-track>
                     <par-time>5:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>344</things>
+                            <vertexes>2922</vertexes>
+                            <linedefs>2957</linedefs>
+                            <sidedefs>1279</sidedefs>
+                            <sectors>287</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>The Gateway of Hell</name>
@@ -1063,6 +2226,15 @@
                     <authors>Milo Casali</authors>
                     <sound-track>The End of DOOM</sound-track>
                     <par-time>3:00</par-time>
+                    <statistics>
+                        <map-data>
+                            <things>260</things>
+                            <vertexes>1524</vertexes>
+                            <linedefs>1535</linedefs>
+                            <sidedefs>919</sidedefs>
+                            <sectors>129</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </e4>
         </episodes>
@@ -1078,6 +2250,15 @@
                     <par-time>2:00</par-time>
                     <secret-exit>true</secret-exit>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>277</things>
+                            <vertexes>1097</vertexes>
+                            <linedefs>1113</linedefs>
+                            <sidedefs>1657</sidedefs>
+                            <sectors>159</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
                 <levels>
                     <name>Go 2 It</name>
@@ -1087,6 +2268,15 @@
                     <sound-track>Nobody Told Me About Id</sound-track>
                     <par-time>0:30</par-time>
                     <secret>true</secret>
+                    <statistics>
+                        <map-data>
+                            <things>521</things>
+                            <vertexes>1003</vertexes>
+                            <linedefs>979</linedefs>
+                            <sidedefs>1392</sidedefs>
+                            <sectors>157</sectors>
+                        </map-data>
+                    </statistics>
                 </levels>
             </secret>
         </episodes>

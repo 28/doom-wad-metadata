@@ -5,184 +5,364 @@
                                              :short-name  "E1M1"
                                              :authors     ["John Romero"]
                                              :sound-track "At Doom's Gate"
-                                             :par-time    "0:30"}
+                                             :par-time    "0:30"
+                                             :statistics  {:map-data {:things   143
+                                                                      :vertexes 391
+                                                                      :linedefs 486
+                                                                      :sidedefs 666
+                                                                      :sectors  88}}}
                                             {:name        "Nuclear Plant"
                                              :short-name  "E1M2"
                                              :authors     ["John Romero"]
                                              :sound-track "The Imp's Song"
-                                             :par-time    "1:15"}
+                                             :par-time    "1:15"
+                                             :statistics  {:map-data {:things   262
+                                                                      :vertexes 812
+                                                                      :linedefs 1033
+                                                                      :sidedefs 1323
+                                                                      :sectors  200}}}
                                             {:name        "Toxin Refinery"
                                              :short-name  "E1M3"
                                              :authors     ["John Romero"]
                                              :sound-track "Dark Halls"
                                              :par-time    "2:00"
-                                             :secret-exit true}
+                                             :secret-exit true
+                                             :statistics  {:map-data {:things   380
+                                                                      :vertexes 835
+                                                                      :linedefs 1026
+                                                                      :sidedefs 1326
+                                                                      :sectors  177}}}
                                             {:name        "Command Control"
                                              :short-name  "E1M4"
                                              :authors     ["Tom Hall" "John Romero"]
                                              :sound-track "Kitchen Ace"
-                                             :par-time    "1:30"}
+                                             :par-time    "1:30"
+                                             :statistics  {:map-data {:things   254
+                                                                      :vertexes 673
+                                                                      :linedefs 830
+                                                                      :sidedefs 1054
+                                                                      :sectors  139}}}
                                             {:name        "Phobos Lab"
                                              :short-name  "E1M5"
                                              :authors     ["John Romero"]
                                              :sound-track "Suspense"
-                                             :par-time    "2:45"}
+                                             :par-time    "2:45"
+                                             :statistics  {:map-data {:things   293
+                                                                      :vertexes 665
+                                                                      :linedefs 825
+                                                                      :sidedefs 1053
+                                                                      :sectors  143}}}
                                             {:name        "Central Processing"
                                              :short-name  "E1M6"
                                              :authors     ["John Romero"]
                                              :sound-track "On The Hunt"
-                                             :par-time    "3:00"}
+                                             :par-time    "3:00"
+                                             :statistics  {:map-data {:things   463
+                                                                      :vertexes 1081
+                                                                      :linedefs 1352
+                                                                      :sidedefs 1727
+                                                                      :sectors  250}}}
                                             {:name        "Computer Station"
                                              :short-name  "E1M7"
                                              :authors     ["John Romero"]
                                              :sound-track "Demons On The Prey"
-                                             :par-time    "3:00"}
+                                             :par-time    "3:00"
+                                             :statistics  {:map-data {:things   358
+                                                                      :vertexes 763
+                                                                      :linedefs 958
+                                                                      :sidedefs 1223
+                                                                      :sectors  170}}}
                                             {:name        "Phobos Anomaly"
                                              :short-name  "E1M8"
                                              :authors     ["Sandy Petersen" "Tom Hall"]
                                              :sound-track "Sign Of Evil"
-                                             :par-time    "0:30"}
+                                             :par-time    "0:30"
+                                             :statistics  {:map-data {:things   126
+                                                                      :vertexes 264
+                                                                      :linedefs 333
+                                                                      :sidedefs 511
+                                                                      :sectors  74}}}
                                             {:name        "Military Base"
                                              :short-name  "E1M9"
                                              :authors     ["John Romero"]
                                              :sound-track "Hiding the Secrets"
                                              :par-time    "2:45"
-                                             :secret      true}]}}
+                                             :secret      true
+                                             :statistics  {:map-data {:things   237
+                                                                      :vertexes 509
+                                                                      :linedefs 653
+                                                                      :sidedefs 902
+                                                                      :sectors  147}}}]}}
                              {:e2 {:name   "The Shores of Hell"
                                    :levels [{:name        "Deimos Anomaly"
                                              :short-name  "E2M1"
                                              :authors     ["Sandy Petersen" "Tom Hall"]
                                              :sound-track "I Sawed The Demons"
-                                             :par-time    "1:30"}
+                                             :par-time    "1:30"
+                                             :statistics  {:map-data {:things   127
+                                                                      :vertexes 327
+                                                                      :linedefs 415
+                                                                      :sidedefs 550
+                                                                      :sectors  92}}}
                                             {:name        "Containment Area"
                                              :short-name  "E2M2"
                                              :authors     ["Sandy Petersen" "Tom Hall"]
                                              :sound-track "The Demons From Adrian's Pen"
-                                             :par-time    "1:30"}
+                                             :par-time    "1:30"
+                                             :statistics  {:map-data {:things   311
+                                                                      :vertexes 1352
+                                                                      :linedefs 1610
+                                                                      :sidedefs 2076
+                                                                      :sectors  245}}}
                                             {:name        "Refinery"
                                              :short-name  "E2M3"
                                              :authors     ["Sandy Petersen" "Tom Hall"]
                                              :sound-track "Intermission from DOOM"
-                                             :par-time    "1:30"}
+                                             :par-time    "1:30"
+                                             :statistics  {:map-data {:things   229
+                                                                      :vertexes 810
+                                                                      :linedefs 953
+                                                                      :sidedefs 1145
+                                                                      :sectors  128}}}
                                             {:name        "Deimos Lab"
                                              :short-name  "E2M4"
                                              :authors     ["Sandy Petersen" "Tom Hall"]
                                              :sound-track "They're Going To Get You"
-                                             :par-time    "2:00"}
+                                             :par-time    "2:00"
+                                             :statistics  {:map-data {:things   265
+                                                                      :vertexes 909
+                                                                      :linedefs 1117
+                                                                      :sidedefs 1439
+                                                                      :sectors  205}}}
                                             {:name        "Command Center"
                                              :short-name  "E2M5"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "Demons on the Prey"
                                              :par-time    "1:30"
-                                             :secret-exit true}
+                                             :secret-exit true
+                                             :statistics  {:map-data {:things   326
+                                                                      :vertexes 1109
+                                                                      :linedefs 1353
+                                                                      :sidedefs 1710
+                                                                      :sectors  241}}}
                                             {:name        "Halls of the Damned"
                                              :short-name  "E2M6"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "Sinister"
-                                             :par-time    "6:00"}
+                                             :par-time    "6:00"
+                                             :statistics  {:map-data {:things   326
+                                                                      :vertexes 886
+                                                                      :linedefs 1094
+                                                                      :sidedefs 1324
+                                                                      :sectors  181}}}
                                             {:name        "Spawning Vats"
                                              :short-name  "E2M7"
                                              :authors     ["Sandy Petersen" "Tom Hall"]
                                              :sound-track "Waltz of the Demons"
-                                             :par-time    "4:00"}
+                                             :par-time    "4:00"
+                                             :statistics  {:map-data {:things   235
+                                                                      :vertexes 1451
+                                                                      :linedefs 1764
+                                                                      :sidedefs 2252
+                                                                      :sectors  323}}}
                                             {:name        "Tower of Babel"
                                              :short-name  "E2M8"
                                              :authors     ["Sandy Petersen"]
-                                             :sound-track "Nobody Told Me About Id"}
+                                             :sound-track "Nobody Told Me About Id"
+                                             :statistics  {:map-data {:things   66
+                                                                      :vertexes 186
+                                                                      :linedefs 218
+                                                                      :sidedefs 278
+                                                                      :sectors  27}}}
                                             {:name        "Fortress of Mystery"
                                              :short-name  "E2M9"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "Untitled (Mouth For War)"
                                              :par-time    "2:50"
-                                             :secret      true}]}}
+                                             :secret      true
+                                             :statistics  {:map-data {:things   53
+                                                                      :vertexes 150
+                                                                      :linedefs 166
+                                                                      :sidedefs 198
+                                                                      :sectors  19}}}]}}
                              {:e3 {:name   "Inferno"
                                    :levels [{:name        "Hell Keep"
                                              :short-name  "E3M1"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "Untitled"
-                                             :par-time    "1:30"}
+                                             :par-time    "1:30"
+                                             :statistics  {:map-data {:things   92
+                                                                      :vertexes 170
+                                                                      :linedefs 208
+                                                                      :sidedefs 274
+                                                                      :sectors  39}}}
                                             {:name        "Slough of Despair"
                                              :short-name  "E3M2"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "Donna to the Rescue"
-                                             :par-time    "0:45"}
+                                             :par-time    "0:45"
+                                             :statistics  {:map-data {:things   208
+                                                                      :vertexes 426
+                                                                      :linedefs 494
+                                                                      :sidedefs 625
+                                                                      :sectors  68}}}
                                             {:name        "Pandemonium"
                                              :short-name  "E3M3"
                                              :authors     ["Sandy Petersen" "Tom Hall"]
                                              :sound-track "Deep Into The Code"
-                                             :par-time    "1:30"}
+                                             :par-time    "1:30"
+                                             :statistics  {:map-data {:things   209
+                                                                      :vertexes 905
+                                                                      :linedefs 1102
+                                                                      :sidedefs 1394
+                                                                      :sectors  192}}}
                                             {:name        "House of Pain"
                                              :short-name  "E3M4"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "Sign of Evil"
-                                             :par-time    "2:30"}
+                                             :par-time    "2:30"
+                                             :statistics  {:map-data {:things   374
+                                                                      :vertexes 907
+                                                                      :linedefs 1099
+                                                                      :sidedefs 1369
+                                                                      :sectors  186}}}
                                             {:name        "Unholy Cathedral"
                                              :short-name  "E3M5"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "Demons on the Prey"
-                                             :par-time    "1:30"}
+                                             :par-time    "1:30"
+                                             :statistics  {:map-data {:things   291
+                                                                      :vertexes 1132
+                                                                      :linedefs 1416
+                                                                      :sidedefs 1846
+                                                                      :sectors  268}}}
                                             {:name        "Mt. Erebus"
                                              :short-name  "E3M6"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "On the Hunt"
                                              :par-time    "1:30"
-                                             :secret-exit true}
+                                             :secret-exit true
+                                             :statistics  {:map-data {:things   335
+                                                                      :vertexes 550
+                                                                      :linedefs 687
+                                                                      :sidedefs 949
+                                                                      :sectors  125}}}
                                             {:name        "Limbo"
                                              :short-name  "E3M7"
                                              :authors     ["Sandy Petersen" "Tom Hall"]
                                              :sound-track "Waltz of the Demons"
-                                             :par-time    "2:45"}
+                                             :par-time    "2:45"
+                                             :statistics  {:map-data {:things   154
+                                                                      :vertexes 807
+                                                                      :linedefs 982
+                                                                      :sidedefs 1247
+                                                                      :sectors  166}}}
                                             {:name        "Dis"
                                              :short-name  "E3M8"
                                              :authors     ["Sandy Petersen"]
-                                             :sound-track "Facing The Spider"}
+                                             :sound-track "Facing The Spider"
+                                             :statistics  {:map-data {:things   58
+                                                                      :vertexes 105
+                                                                      :linedefs 122
+                                                                      :sidedefs 173
+                                                                      :sectors  17}}}
                                             {:name        "Warrens"
                                              :short-name  "E3M9"
                                              :authors     ["Sandy Petersen"]
                                              :sound-track "Hiding the Secrets"
                                              :par-time    "2:15"
-                                             :secret      true}]}}
+                                             :secret      true
+                                             :statistics  {:map-data {:things   197
+                                                                      :vertexes 402
+                                                                      :linedefs 474
+                                                                      :sidedefs 589
+                                                                      :sectors  71}}}]}}
                              {:e4 {:name   "Thy Flesh Consumed"
                                    :levels [{:name        "Hell Beneath"
                                              :short-name  "E4M1"
                                              :authors     ["American McGee"]
-                                             :sound-track "Sign of Evil"}
+                                             :sound-track "Sign of Evil"
+                                             :statistics  {:map-data {:things   141
+                                                                      :vertexes 389
+                                                                      :linedefs 471
+                                                                      :sidedefs 642
+                                                                      :sectors  81}}}
                                             {:name        "Perfect Hatred"
                                              :short-name  "E4M2"
                                              :authors     ["John Romero"]
                                              :sound-track "Donna to the Rescue"
-                                             :secret-exit true}
+                                             :secret-exit true
+                                             :statistics  {:map-data {:things   227
+                                                                      :vertexes 557
+                                                                      :linedefs 685
+                                                                      :sidedefs 1014
+                                                                      :sectors  122}}}
                                             {:name        "Sever the Wicked"
                                              :short-name  "E4M3"
                                              :authors     ["Shawn Green"]
-                                             :sound-track "Deep into the Code"}
+                                             :sound-track "Deep into the Code"
+                                             :statistics  {:map-data {:things   384
+                                                                      :vertexes 657
+                                                                      :linedefs 822
+                                                                      :sidedefs 1216
+                                                                      :sectors  156}}}
                                             {:name        "Unruly Evil"
                                              :short-name  "E4M4"
                                              :authors     ["American McGee"]
-                                             :sound-track "Suspense"}
+                                             :sound-track "Suspense"
+                                             :statistics  {:map-data {:things   153
+                                                                      :vertexes 539
+                                                                      :linedefs 648
+                                                                      :sidedefs 925
+                                                                      :sectors  123}}}
                                             {:name        "They Will Repent"
                                              :short-name  "E4M5"
                                              :authors     ["Theresa Chasar" "Tim Willits"]
-                                             :sound-track "Waltz of the Demons"}
+                                             :sound-track "Waltz of the Demons"
+                                             :statistics  {:map-data {:things   267
+                                                                      :vertexes 876
+                                                                      :linedefs 1068
+                                                                      :sidedefs 1705
+                                                                      :sectors  170}}}
                                             {:name        "Against Thee Wickedly"
                                              :short-name  "E4M6"
                                              :authors     ["John Romero"]
                                              :sound-track "They're Going To Get You"
-                                             :par-time    "6:30"}
+                                             :par-time    "6:30"
+                                             :statistics  {:map-data {:things   295
+                                                                      :vertexes 1131
+                                                                      :linedefs 1355
+                                                                      :sidedefs 1963
+                                                                      :sectors  224}}}
                                             {:name        "And Hell Followed"
                                              :short-name  "E4M7"
                                              :authors     ["John W. Anderson"]
                                              :sound-track "Sinister"
-                                             :par-time    "2:15"}
+                                             :par-time    "2:15"
+                                             :statistics  {:map-data {:things   258
+                                                                      :vertexes 1099
+                                                                      :linedefs 1371
+                                                                      :sidedefs 1981
+                                                                      :sectors  288}}}
                                             {:name        "Unto the Cruel"
                                              :short-name  "E4M8"
                                              :authors     ["Shawn Green"]
-                                             :sound-track "Demons on the Prey"}
+                                             :sound-track "Demons on the Prey"
+                                             :statistics  {:map-data {:things   315
+                                                                      :vertexes 1041
+                                                                      :linedefs 1280
+                                                                      :sidedefs 1908
+                                                                      :sectors  223}}}
                                             {:name        "Fear"
                                              :short-name  "E4M9"
                                              :authors     ["Tim Willits"]
                                              :sound-track "Hiding the Secrets"
-                                             :secret      true}]}}]}}
+                                             :secret      true
+                                             :statistics  {:map-data {:things   247
+                                                                      :vertexes 1344
+                                                                      :linedefs 1644
+                                                                      :sidedefs 2417
+                                                                      :sectors  248}}}]}}]}}
          {:doom2 {:name      "Doom II"
                   :file-name "DOOM2.WAD"
                   :episodes  [{:e1 {:name   "Subterranean and Starport levels"
@@ -190,156 +370,307 @@
                                               :short-name  "MAP01"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Running From Evil"
-                                              :par-time    "0:30"}
+                                              :par-time    "0:30"
+                                              :statistics  {:map-data {:things   69
+                                                                       :vertexes 383
+                                                                       :linedefs 370
+                                                                       :sidedefs 529
+                                                                       :sectors  59}}}
                                              {:name        "Underhalls"
                                               :short-name  "MAP02"
                                               :authors     ["American McGee"]
                                               :sound-track "The Healer Stalks"
-                                              :par-time    "1:30"}
+                                              :par-time    "1:30"
+                                              :statistics  {:map-data {:things   173
+                                                                       :vertexes 501
+                                                                       :linedefs 523
+                                                                       :sidedefs 715
+                                                                       :sectors  97}}}
                                              {:name        "The Gantlet"
                                               :short-name  "MAP03"
                                               :authors     ["American McGee"]
                                               :sound-track "Countdown To Death"
-                                              :par-time    "2:00"}
+                                              :par-time    "2:00"
+                                              :statistics  {:map-data {:things   148
+                                                                       :vertexes 544
+                                                                       :linedefs 594
+                                                                       :sidedefs 894
+                                                                       :sectors  121}}}
                                              {:name        "The Focus"
                                               :short-name  "MAP04"
                                               :authors     ["American McGee"]
                                               :sound-track "Between Levels"
-                                              :par-time    "2:00"}
+                                              :par-time    "2:00"
+                                              :statistics  {:map-data {:things   138
+                                                                       :vertexes 494
+                                                                       :linedefs 591
+                                                                       :sidedefs 780
+                                                                       :sectors  122}}}
                                              {:name        "The Waste Tunnels"
                                               :short-name  "MAP05"
                                               :authors     ["American McGee"]
                                               :sound-track "DOOM"
-                                              :par-time    "1:30"}
+                                              :par-time    "1:30"
+                                              :statistics  {:map-data {:things   217
+                                                                       :vertexes 864
+                                                                       :linedefs 958
+                                                                       :sidedefs 1291
+                                                                       :sectors  176}}}
                                              {:name        "The Crusher"
                                               :short-name  "MAP06"
                                               :authors     ["American McGee"]
                                               :sound-track "In The Dark"
-                                              :par-time    "2:30"}]}}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   247
+                                                                       :vertexes 935
+                                                                       :linedefs 1011
+                                                                       :sidedefs 1409
+                                                                       :sectors  183}}}]}}
                               {:e2 {:name   "Hellish Outpost levels"
                                     :levels [{:name        "Dead Simple"
                                               :short-name  "MAP07"
                                               :authors     ["Sandy Petersen" "American McGee"]
                                               :sound-track "Shawn's Got The Shotgun"
-                                              :par-time    "2:00"}
+                                              :par-time    "2:00"
+                                              :statistics  {:map-data {:things   98
+                                                                       :vertexes 195
+                                                                       :linedefs 188
+                                                                       :sidedefs 283
+                                                                       :sectors  29}}}
                                              {:name        "Tricks and Traps"
                                               :short-name  "MAP08"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "The Dave D. Taylor Blues"
-                                              :par-time    "2:00"}
+                                              :par-time    "2:00"
+                                              :statistics  {:map-data {:things   242
+                                                                       :vertexes 574
+                                                                       :linedefs 649
+                                                                       :sidedefs 868
+                                                                       :sectors  127}}}
                                              {:name        "The Pit"
                                               :short-name  "MAP09"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Into Sandy's City"
-                                              :par-time    "4:30"}
+                                              :par-time    "4:30"
+                                              :statistics  {:map-data {:things   392
+                                                                       :vertexes 617
+                                                                       :linedefs 640
+                                                                       :sidedefs 877
+                                                                       :sectors  131}}}
                                              {:name        "Refueling Base"
                                               :short-name  "MAP10"
                                               :authors     ["Tom Hall" "Sandy Petersen"]
                                               :sound-track "The Demon's Dead"
-                                              :par-time    "1:30"}
-                                             {:name        "Circle of Death"
-                                              :short-name  "MAP11"
-                                              :authors     ["John Romero"]
-                                              :sound-track "The Healer Stalks"
-                                              :par-time    "3:30"}]}}
+                                              :par-time    "1:30"
+                                              :statistics  {:map-data {:things   509
+                                                                       :vertexes 961
+                                                                       :linedefs 1054
+                                                                       :sidedefs 1312
+                                                                       :sectors  186}}}
+                                             {:name           "Circle of Death"
+                                              :alternate-name "'O' of Destruction!"
+                                              :short-name     "MAP11"
+                                              :authors        ["John Romero"]
+                                              :sound-track    "The Healer Stalks"
+                                              :par-time       "3:30"
+                                              :statistics     {:map-data {:things   238
+                                                                          :vertexes 780
+                                                                          :linedefs 850
+                                                                          :sidedefs 1195
+                                                                          :sectors  143}}}]}}
                               {:e3 {:name   "City levels"
                                     :levels [{:name        "The Factory"
                                               :short-name  "MAP12"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "In The Dark"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   195
+                                                                       :vertexes 774
+                                                                       :linedefs 774
+                                                                       :sidedefs 1094
+                                                                       :sectors  162}}}
                                              {:name        "Downtown"
                                               :short-name  "MAP13"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "DOOM"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   312
+                                                                       :vertexes 1103
+                                                                       :linedefs 1196
+                                                                       :sidedefs 1670
+                                                                       :sectors  247}}}
                                              {:name        "The Inmost Dens"
                                               :short-name  "MAP14"
                                               :authors     ["American McGee"]
                                               :sound-track "The Dave D. Taylor Blues"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   173
+                                                                       :vertexes 1429
+                                                                       :linedefs 1681
+                                                                       :sidedefs 2587
+                                                                       :sectors  348}}}
                                              {:name        "Industrial Zone"
                                               :short-name  "MAP15"
                                               :authors     ["John Romero"]
                                               :sound-track "Running From Evil"
                                               :par-time    "3:30"
-                                              :secret-exit true}
+                                              :secret-exit true
+                                              :statistics  {:map-data {:things   0
+                                                                       :vertexes 0
+                                                                       :linedefs 0
+                                                                       :sidedefs 0
+                                                                       :sectors  0}}}
                                              {:name        "Suburbs"
                                               :short-name  "MAP16"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "The Demon's Dead"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   249
+                                                                       :vertexes 754
+                                                                       :linedefs 778
+                                                                       :sidedefs 1088
+                                                                       :sectors  142}}}
                                              {:name        "Tenements"
                                               :short-name  "MAP17"
                                               :authors     ["John Romero"]
                                               :sound-track "The Healer Stalks"
-                                              :par-time    "7:00"}
+                                              :par-time    "7:00"
+                                              :statistics  {:map-data {:things   421
+                                                                       :vertexes 1107
+                                                                       :linedefs 1290
+                                                                       :sidedefs 1847
+                                                                       :sectors  274}}}
                                              {:name        "The Courtyard"
                                               :short-name  "MAP18"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Waiting For Romero To Play"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   494
+                                                                       :vertexes 806
+                                                                       :linedefs 774
+                                                                       :sidedefs 986
+                                                                       :sectors  108}}}
                                              {:name        "The Citadel"
                                               :short-name  "MAP19"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Shawn's Got The Shotgun"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   437
+                                                                       :vertexes 1252
+                                                                       :linedefs 1255
+                                                                       :sidedefs 1821
+                                                                       :sectors  251}}}
                                              {:name        "Gotcha!"
                                               :short-name  "MAP20"
                                               :authors     ["John Romero"]
                                               :sound-track "Message For The Archvile"
-                                              :par-time    "2:30"}]}}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   256
+                                                                       :vertexes 1024
+                                                                       :linedefs 1015
+                                                                       :sidedefs 1448
+                                                                       :sectors  191}}}]}}
                               {:e4 {:name   "Inside Hell levels"
                                     :levels [{:name        "Nirvana"
                                               :short-name  "MAP21"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Countdown To Death"
-                                              :par-time    "4:00"}
+                                              :par-time    "4:00"
+                                              :statistics  {:map-data {:things   217
+                                                                       :vertexes 396
+                                                                       :linedefs 327
+                                                                       :sidedefs 538
+                                                                       :sectors  61}}}
                                              {:name        "The Catacombs"
                                               :short-name  "MAP22"
                                               :authors     ["American McGee"]
                                               :sound-track "The Dave D. Taylor Blues"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   121
+                                                                       :vertexes 590
+                                                                       :linedefs 657
+                                                                       :sidedefs 940
+                                                                       :sectors  140}}}
                                              {:name        "Barrels o' Fun"
                                               :short-name  "MAP23"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Bye Bye American Pie"
-                                              :par-time    "3:00"}
+                                              :par-time    "3:00"
+                                              :statistics  {:map-data {:things   431
+                                                                       :vertexes 394
+                                                                       :linedefs 391
+                                                                       :sidedefs 518
+                                                                       :sectors  69}}}
                                              {:name        "The Chasm"
                                               :short-name  "MAP24"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "In The Dark"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   364
+                                                                       :vertexes 1174
+                                                                       :linedefs 1109
+                                                                       :sidedefs 1701
+                                                                       :sectors  181}}}
                                              {:name        "Bloodfalls"
                                               :short-name  "MAP25"
                                               :authors     ["Shawn Green"]
                                               :sound-track "Adrian's Asleep"
-                                              :par-time    "2:30"}
+                                              :par-time    "2:30"
+                                              :statistics  {:map-data {:things   276
+                                                                       :vertexes 697
+                                                                       :linedefs 762
+                                                                       :sidedefs 1079
+                                                                       :sectors  147}}}
                                              {:name        "The Abandoned Mines"
                                               :short-name  "MAP26"
                                               :authors     ["John Romero"]
                                               :sound-track "Message For The Archvile"
-                                              :par-time    "5:00"}
+                                              :par-time    "5:00"
+                                              :statistics  {:map-data {:things   294
+                                                                       :vertexes 818
+                                                                       :linedefs 850
+                                                                       :sidedefs 1184
+                                                                       :sectors  126}}}
                                              {:name        "Monster Condo"
                                               :short-name  "MAP27"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Waiting For Romero To Play"
-                                              :par-time    "5:30"}
+                                              :par-time    "5:30"
+                                              :statistics  {:map-data {:things   490
+                                                                       :vertexes 864
+                                                                       :linedefs 946
+                                                                       :sidedefs 1047
+                                                                       :sectors  187}}}
                                              {:name        "The Spirit World"
                                               :short-name  "MAP28"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Getting Too Tense"
-                                              :par-time    "7:00"}
+                                              :par-time    "7:00"
+                                              :statistics  {:map-data {:things   266
+                                                                       :vertexes 749
+                                                                       :linedefs 745
+                                                                       :sidedefs 1057
+                                                                       :sectors  116}}}
                                              {:name        "The Living End"
                                               :short-name  "MAP29"
                                               :authors     ["John Romero"]
                                               :sound-track "Shawn's Got The Shotgun"
-                                              :par-time    "5:00"}
+                                              :par-time    "5:00"
+                                              :statistics  {:map-data {:things   276
+                                                                       :vertexes 1180
+                                                                       :linedefs 1152
+                                                                       :sidedefs 1653
+                                                                       :sectors  205}}}
                                              {:name        "Icon of Sin"
                                               :short-name  "MAP30"
                                               :authors     ["Sandy Petersen"]
                                               :sound-track "Opening To Hell"
-                                              :par-time    "3:00"}]}}
+                                              :par-time    "3:00"
+                                              :statistics  {:map-data {:things   95
+                                                                       :vertexes 82
+                                                                       :linedefs 93
+                                                                       :sidedefs 131
+                                                                       :sectors  22}}}]}}
                               {:secret {:name   "Secret levels"
                                         :levels [{:name        "Wolfenstein"
                                                   :short-name  "MAP31"
@@ -347,13 +678,23 @@
                                                   :sound-track "Evil Incarnate"
                                                   :par-time    "2:00"
                                                   :secret-exit true
-                                                  :secret      true}
+                                                  :secret      true
+                                                  :statistics  {:map-data {:things   317
+                                                                           :vertexes 635
+                                                                           :linedefs 684
+                                                                           :sidedefs 783
+                                                                           :sectors  80}}}
                                                  {:name        "Grosse"
                                                   :short-name  "MAP32"
                                                   :authors     ["Sandy Petersen"]
                                                   :sound-track "The Ultimate Challenge"
                                                   :par-time    "0:30"
-                                                  :secret      true}]}}]}}
+                                                  :secret      true
+                                                  :statistics  {:map-data {:things   111
+                                                                           :vertexes 229
+                                                                           :linedefs 216
+                                                                           :sidedefs 276
+                                                                           :sectors  20}}}]}}]}}
          {:tnt {:name      "TNT: Evilution"
                 :file-name "TNT.WAD"
                 :episodes  [{:e1 {:name   "Experimental labs levels"
@@ -361,156 +702,306 @@
                                             :short-name  "MAP01"
                                             :authors     ["Tom Mustaine"]
                                             :sound-track "Sadistic"
-                                            :par-time    "0:30"}
+                                            :par-time    "0:30"
+                                            :statistics  {:map-data {:things   84
+                                                                     :vertexes 555
+                                                                     :linedefs 591
+                                                                     :sidedefs 476
+                                                                     :sectors  134}}}
                                            {:name        "Human BBQ"
                                             :short-name  "MAP02"
                                             :authors     ["John Wakelin"]
                                             :sound-track "Smells Like Burning Corpse"
-                                            :par-time    "1:30"}
+                                            :par-time    "1:30"
+                                            :statistics  {:map-data {:things   249
+                                                                     :vertexes 813
+                                                                     :linedefs 843
+                                                                     :sidedefs 587
+                                                                     :sectors  155}}}
                                            {:name        "Power Control"
                                             :short-name  "MAP03"
                                             :authors     ["John Minadeo"]
                                             :sound-track "Message For The Archvile"
-                                            :par-time    "2:00"}
+                                            :par-time    "2:00"
+                                            :statistics  {:map-data {:things   243
+                                                                     :vertexes 1057
+                                                                     :linedefs 1369
+                                                                     :sidedefs 1243
+                                                                     :sectors  344}}}
                                            {:name        "Wormhole"
                                             :short-name  "MAP04"
                                             :authors     ["Ty Halderman"]
                                             :sound-track "Death's Bells"
-                                            :par-time    "2:00"}
+                                            :par-time    "2:00"
+                                            :statistics  {:map-data {:things   412
+                                                                     :vertexes 1416
+                                                                     :linedefs 1604
+                                                                     :sidedefs 1377
+                                                                     :sectors  382}}}
                                            {:name        "Hanger"
                                             :short-name  "MAP05"
                                             :authors     ["Jim Dethlefsen"]
                                             :sound-track "More"
-                                            :par-time    "1:30"}
+                                            :par-time    "1:30"
+                                            :statistics  {:map-data {:things   292
+                                                                     :vertexes 1437
+                                                                     :linedefs 1642
+                                                                     :sidedefs 846
+                                                                     :sectors  295}}}
                                            {:name        "Open Season"
                                             :short-name  "MAP06"
                                             :authors     ["Ty Halderman"]
                                             :sound-track "Agony Rhapsody"
-                                            :par-time    "2:30"}]}}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   180
+                                                                     :vertexes 894
+                                                                     :linedefs 1004
+                                                                     :sidedefs 553
+                                                                     :sectors  189}}}]}}
                             {:e2 {:name   "Military base levels"
                                   :levels [{:name        "Prison"
                                             :short-name  "MAP07"
                                             :authors     ["Andrew Dowswell"]
                                             :sound-track "Soldier Of Chaos"
-                                            :par-time    "2:00"}
+                                            :par-time    "2:00"
+                                            :statistics  {:map-data {:things   487
+                                                                     :vertexes 1023
+                                                                     :linedefs 1026
+                                                                     :sidedefs 489
+                                                                     :sectors  175}}}
                                            {:name        "Metal"
                                             :short-name  "MAP08"
                                             :authors     ["John Minadeo"]
                                             :sound-track "Into The Beast's Belly"
-                                            :par-time    "2:00"}
+                                            :par-time    "2:00"
+                                            :statistics  {:map-data {:things   419
+                                                                     :vertexes 1445
+                                                                     :linedefs 1570
+                                                                     :sidedefs 1034
+                                                                     :sectors  421}}}
                                            {:name        "Stronghold"
                                             :short-name  "MAP09"
                                             :authors     ["Ty Halderman"]
                                             :sound-track "Sadistic"
-                                            :par-time    "4:30"}
+                                            :par-time    "4:30"
+                                            :statistics  {:map-data {:things   657
+                                                                     :vertexes 1925
+                                                                     :linedefs 2214
+                                                                     :sidedefs 1613
+                                                                     :sectors  439}}}
                                            {:name        "Redemption"
                                             :short-name  "MAP10"
                                             :authors     ["Tom Mustaine"]
                                             :sound-track "Infinite"
-                                            :par-time    "1:30"}
+                                            :par-time    "1:30"
+                                            :statistics  {:map-data {:things   152
+                                                                     :vertexes 963
+                                                                     :linedefs 1189
+                                                                     :sidedefs 751
+                                                                     :sectors  285}}}
                                            {:name        "Storage Facility"
                                             :short-name  "MAP11"
                                             :authors     ["Dean Johnson"]
                                             :sound-track "Let's Kill At Will"
-                                            :par-time    "3:30"}]}}
+                                            :par-time    "3:30"
+                                            :statistics  {:map-data {:things   422
+                                                                     :vertexes 1497
+                                                                     :linedefs 1617
+                                                                     :sidedefs 989
+                                                                     :sectors  274}}}]}}
                             {:e3 {:name   "Nightmare levels"
                                   :levels [{:name        "Crater"
                                             :short-name  "MAP12"
                                             :authors     ["Jim Lowell"]
                                             :sound-track "The Dave D. Taylor Blues"
-                                            :par-time    "2:30"}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   262
+                                                                     :vertexes 1605
+                                                                     :linedefs 1720
+                                                                     :sidedefs 861
+                                                                     :sectors  315}}}
                                            {:name        "Nukage Processing"
                                             :short-name  "MAP13"
                                             :authors     ["Brian Kidby"]
                                             :sound-track "Death's Bells"
-                                            :par-time    "2:30"}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   406
+                                                                     :vertexes 1423
+                                                                     :linedefs 1581
+                                                                     :sidedefs 1057
+                                                                     :sectors  260}}}
                                            {:name        "Steel Works"
                                             :short-name  "MAP14"
                                             :authors     ["Robin Patenall"]
                                             :sound-track "Cold Subtleness"
-                                            :par-time    "2:30"}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   415
+                                                                     :vertexes 1338
+                                                                     :linedefs 1521
+                                                                     :sidedefs 1026
+                                                                     :sectors  315}}}
                                            {:name        "Dead Zone"
                                             :short-name  "MAP15"
                                             :authors     ["William Whitaker"]
                                             :sound-track "Smells Like Burning Corpse"
                                             :par-time    "3:30"
-                                            :secret-exit true}
+                                            :secret-exit true
+                                            :statistics  {:map-data {:things   364
+                                                                     :vertexes 1310
+                                                                     :linedefs 1421
+                                                                     :sidedefs 1409
+                                                                     :sectors  336}}}
                                            {:name        "Deepest Reaches"
                                             :short-name  "MAP16"
                                             :authors     ["Andre Arsenault"]
                                             :sound-track "Blood Jungle"
-                                            :par-time    "2:30"}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   408
+                                                                     :vertexes 2386
+                                                                     :linedefs 2370
+                                                                     :sidedefs 1874
+                                                                     :sectors  369}}}
                                            {:name        "Processing Area"
                                             :short-name  "MAP17"
                                             :authors     ["Tom Mustaine"]
                                             :sound-track "More"
-                                            :par-time    "7:00"}
+                                            :par-time    "7:00"
+                                            :statistics  {:map-data {:things   260
+                                                                     :vertexes 938
+                                                                     :linedefs 1186
+                                                                     :sidedefs 880
+                                                                     :sectors  295}}}
                                            {:name        "Mill"
                                             :short-name  "MAP18"
                                             :authors     ["Ty Halderman"]
                                             :sound-track "Infinite"
-                                            :par-time    "2:30"}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   499
+                                                                     :vertexes 2451
+                                                                     :linedefs 2642
+                                                                     :sidedefs 1284
+                                                                     :sectors  370}}}
                                            {:name        "Shipping/Respawning"
                                             :short-name  "MAP19"
                                             :authors     ["Ty Halderman" "Jimmy Sieben"]
                                             :sound-track "Countdown to Death"
-                                            :par-time    "3:30"}
+                                            :par-time    "3:30"
+                                            :statistics  {:map-data {:things   302
+                                                                     :vertexes 2372
+                                                                     :linedefs 2516
+                                                                     :sidedefs 1547
+                                                                     :sectors  489}}}
                                            {:name        "Central Processing"
                                             :short-name  "MAP20"
                                             :authors     ["Drake O'Brien"]
                                             :sound-track "Horizon"
-                                            :par-time    "2:30"}]}}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   703
+                                                                     :vertexes 2688
+                                                                     :linedefs 2436
+                                                                     :sidedefs 935
+                                                                     :sectors  321}}}]}}
                             {:e4 {:name   "Hellish levels"
                                   :levels [{:name        "Administration Center"
                                             :short-name  "MAP21"
                                             :authors     ["Drake O'Brien"]
                                             :sound-track "Into Sandy's City"
-                                            :par-time    "4:00"}
+                                            :par-time    "4:00"
+                                            :statistics  {:map-data {:things   0
+                                                                     :vertexes 0
+                                                                     :linedefs 2397
+                                                                     :sidedefs 916
+                                                                     :sectors  342}}}
                                            {:name        "Habitat"
                                             :short-name  "MAP22"
                                             :authors     ["Christopher Buteau"]
                                             :sound-track "AimShootKill"
-                                            :par-time    "2:30"}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   362
+                                                                     :vertexes 2275
+                                                                     :linedefs 2074
+                                                                     :sidedefs 1247
+                                                                     :sectors  403}}}
                                            {:name        "Lunar Mining Project"
                                             :short-name  "MAP23"
                                             :authors     ["Paul Turnbull"]
                                             :sound-track "Bye Bye American Pie"
-                                            :par-time    "3:00"}
+                                            :par-time    "3:00"
+                                            :statistics  {:map-data {:things   275
+                                                                     :vertexes 1750
+                                                                     :linedefs 1897
+                                                                     :sidedefs 802
+                                                                     :sectors  304}}}
                                            {:name        "Quarry"
                                             :short-name  "MAP24"
                                             :authors     ["Dean Johnson"]
                                             :sound-track "Between Levels"
-                                            :par-time    "2:30"}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   274
+                                                                     :vertexes 955
+                                                                     :linedefs 961
+                                                                     :sidedefs 696
+                                                                     :sectors  151}}}
                                            {:name        "Baron's Den"
                                             :short-name  "MAP25"
                                             :authors     ["David Hill"]
                                             :sound-track "DOOM"
-                                            :par-time    "2:30"}
+                                            :par-time    "2:30"
+                                            :statistics  {:map-data {:things   384
+                                                                     :vertexes 1416
+                                                                     :linedefs 1496
+                                                                     :sidedefs 868
+                                                                     :sectors  323}}}
                                            {:name        "Ballistyx"
                                             :short-name  "MAP26"
                                             :authors     ["Mark Snell" "Jim Lowell"]
                                             :sound-track "Blood Jungle"
-                                            :par-time    "5:00"}
+                                            :par-time    "5:00"
+                                            :statistics  {:map-data {:things   369
+                                                                     :vertexes 1686
+                                                                     :linedefs 1709
+                                                                     :sidedefs 1224
+                                                                     :sectors  320}}}
                                            {:name        "Mount Pain"
                                             :short-name  "MAP27"
                                             :authors     ["Drake O'Brien"]
                                             :sound-track "Into the Beast's Belly"
-                                            :par-time    "5:30"}
+                                            :par-time    "5:30"
+                                            :statistics  {:map-data {:things   652
+                                                                     :vertexes 2260
+                                                                     :linedefs 2278
+                                                                     :sidedefs 782
+                                                                     :sectors  233}}}
                                            {:name        "Heck"
                                             :short-name  "MAP28"
                                             :authors     ["Milo Casali"]
                                             :sound-track "AimShootKill"
-                                            :par-time    "7:00"}
+                                            :par-time    "7:00"
+                                            :statistics  {:map-data {:things   291
+                                                                     :vertexes 1078
+                                                                     :linedefs 1118
+                                                                     :sidedefs 577
+                                                                     :sectors  102}}}
                                            {:name        "River Styx"
                                             :short-name  "MAP29"
                                             :authors     ["Jimmy Sieben"]
                                             :sound-track "Death's Bells"
-                                            :par-time    "5:00"}
+                                            :par-time    "5:00"
+                                            :statistics  {:map-data {:things   417
+                                                                     :vertexes 2233
+                                                                     :linedefs 2511
+                                                                     :sidedefs 1461
+                                                                     :sectors  477}}}
                                            {:name        "Last Call"
                                             :short-name  "MAP30"
                                             :authors     ["Jimmy Sieben"]
                                             :sound-track "Into The Beast's Belly"
-                                            :par-time    "3:00"}]}}
+                                            :par-time    "3:00"
+                                            :statistics  {:map-data {:things   339
+                                                                     :vertexes 2015
+                                                                     :linedefs 2038
+                                                                     :sidedefs 976
+                                                                     :sectors  341}}}]}}
                             {:secret {:name   "Secret levels"
                                       :levels [{:name        "Pharaoh"
                                                 :short-name  "MAP31"
@@ -518,13 +1009,23 @@
                                                 :sound-track "Legion Of The Lost"
                                                 :par-time    "2:00"
                                                 :secret-exit true
-                                                :secret      true}
+                                                :secret      true
+                                                :statistics  {:map-data {:things   522
+                                                                         :vertexes 2659
+                                                                         :linedefs 2712
+                                                                         :sidedefs 1297
+                                                                         :sectors  376}}}
                                                {:name        "Caribbean"
                                                 :short-name  "MAP32"
                                                 :authors     ["Dario Casali"]
                                                 :sound-track "Into Sandy's City"
                                                 :par-time    "0:30"
-                                                :secret      true}]}}]}}
+                                                :secret      true
+                                                :statistics  {:map-data {:things   506
+                                                                         :vertexes 1579
+                                                                         :linedefs 1600
+                                                                         :sidedefs 949
+                                                                         :sectors  256}}}]}}]}}
          {:plutonia {:name      "The Plutonia Experiment"
                      :file-name "PLUTONIA.WAD"
                      :episodes  [{:e1 {:name   "Initial Earth levels"
@@ -532,156 +1033,306 @@
                                                  :short-name  "MAP01"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "The Imp's Song"
-                                                 :par-time    "0:30"}
+                                                 :par-time    "0:30"
+                                                 :statistics  {:map-data {:things   165
+                                                                          :vertexes 989
+                                                                          :linedefs 1130
+                                                                          :sidedefs 697
+                                                                          :sectors  133}}}
                                                 {:name        "Well of Souls"
                                                  :short-name  "MAP02"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Dark Halls"
-                                                 :par-time    "1:30"}
+                                                 :par-time    "1:30"
+                                                 :statistics  {:map-data {:things   159
+                                                                          :vertexes 886
+                                                                          :linedefs 902
+                                                                          :sidedefs 1281
+                                                                          :sectors  151}}}
                                                 {:name        "Aztec"
                                                  :short-name  "MAP03"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "On the Hunt"
-                                                 :par-time    "2:00"}
+                                                 :par-time    "2:00"
+                                                 :statistics  {:map-data {:things   214
+                                                                          :vertexes 1255
+                                                                          :linedefs 1241
+                                                                          :sidedefs 735
+                                                                          :sectors  133}}}
                                                 {:name        "Caged"
                                                  :short-name  "MAP04"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Kitchen Ace (And Taking Names)"
-                                                 :par-time    "2:00"}
+                                                 :par-time    "2:00"
+                                                 :statistics  {:map-data {:things   253
+                                                                          :vertexes 1023
+                                                                          :linedefs 1043
+                                                                          :sidedefs 1557
+                                                                          :sectors  189}}}
                                                 {:name        "Ghost Town"
                                                  :short-name  "MAP05"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Hiding The Secrets"
-                                                 :par-time    "1:30"}
+                                                 :par-time    "1:30"
+                                                 :statistics  {:map-data {:things   241
+                                                                          :vertexes 998
+                                                                          :linedefs 1069
+                                                                          :sidedefs 579
+                                                                          :sectors  108}}}
                                                 {:name        "Baron's Lair"
                                                  :short-name  "MAP06"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Sign Of Evil"
-                                                 :par-time    "2:30"}]}}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   344
+                                                                          :vertexes 1228
+                                                                          :linedefs 1402
+                                                                          :sidedefs 846
+                                                                          :sectors  225}}}]}}
                                  {:e2 {:name   "Later Earth levels"
                                        :levels [{:name        "Caughtyard"
                                                  :short-name  "MAP07"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "I Sawed The Demons"
-                                                 :par-time    "2:00"}
+                                                 :par-time    "2:00"
+                                                 :statistics  {:map-data {:things   130
+                                                                          :vertexes 514
+                                                                          :linedefs 515
+                                                                          :sidedefs 774
+                                                                          :sectors  47}}}
                                                 {:name        "Realm"
                                                  :short-name  "MAP08"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "The Demons From Adrian's Pen"
-                                                 :par-time    "2:00"}
+                                                 :par-time    "2:00"
+                                                 :statistics  {:map-data {:things   310
+                                                                          :vertexes 1230
+                                                                          :linedefs 1187
+                                                                          :sidedefs 1744
+                                                                          :sectors  138}}}
                                                 {:name        "Abattoire"
                                                  :short-name  "MAP09"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Deep Into The Code"
-                                                 :par-time    "4:30"}
+                                                 :par-time    "4:30"
+                                                 :statistics  {:map-data {:things   395
+                                                                          :vertexes 1250
+                                                                          :linedefs 1281
+                                                                          :sidedefs 1941
+                                                                          :sectors  148}}}
                                                 {:name        "Onslaught"
                                                  :short-name  "MAP10"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Demons On The Prey"
-                                                 :par-time    "1:30"}
+                                                 :par-time    "1:30"
+                                                 :statistics  {:map-data {:things   229
+                                                                          :vertexes 1057
+                                                                          :linedefs 1066
+                                                                          :sidedefs 567
+                                                                          :sectors  158}}}
                                                 {:name        "Hunted"
                                                  :short-name  "MAP11"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Sweet Little Dead Bunny"
-                                                 :par-time    "3:30"}]}}
+                                                 :par-time    "3:30"
+                                                 :statistics  {:map-data {:things   138
+                                                                          :vertexes 1507
+                                                                          :linedefs 1388
+                                                                          :sidedefs 1885
+                                                                          :sectors  109}}}]}}
                                  {:e3 {:name   "Hellish levels"
                                        :levels [{:name        "Speed"
                                                  :short-name  "MAP12"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Facing The Spider"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   293
+                                                                          :vertexes 1162
+                                                                          :linedefs 1211
+                                                                          :sidedefs 1813
+                                                                          :sectors  174}}}
                                                 {:name        "The Crypt"
                                                  :short-name  "MAP13"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Donna To The Rescue"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   205
+                                                                          :vertexes 1193
+                                                                          :linedefs 1197
+                                                                          :sidedefs 1944
+                                                                          :sectors  173}}}
                                                 {:name        "Genesis"
                                                  :short-name  "MAP14"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Nobody Told Me About Id"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   184
+                                                                          :vertexes 1106
+                                                                          :linedefs 1165
+                                                                          :sidedefs 1692
+                                                                          :sectors  117}}}
                                                 {:name        "The Twilight"
                                                  :short-name  "MAP15"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Waltz Of The Demons"
                                                  :par-time    "3:30"
-                                                 :secret-exit true}
+                                                 :secret-exit true
+                                                 :statistics  {:map-data {:things   301
+                                                                          :vertexes 1022
+                                                                          :linedefs 1103
+                                                                          :sidedefs 1599
+                                                                          :sectors  148}}}
                                                 {:name        "The Omen"
                                                  :short-name  "MAP16"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Untitled (Mouth For War)"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   215
+                                                                          :vertexes 1002
+                                                                          :linedefs 989
+                                                                          :sidedefs 1587
+                                                                          :sectors  105}}}
                                                 {:name        "Compound"
                                                  :short-name  "MAP17"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "At Doom's Gate"
-                                                 :par-time    "7:00"}
+                                                 :par-time    "7:00"
+                                                 :statistics  {:map-data {:things   288
+                                                                          :vertexes 1124
+                                                                          :linedefs 1223
+                                                                          :sidedefs 1820
+                                                                          :sectors  125}}}
                                                 {:name        "Neurosphere"
                                                  :short-name  "MAP18"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Demons On The Prey"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   248
+                                                                          :vertexes 1397
+                                                                          :linedefs 1556
+                                                                          :sidedefs 2493
+                                                                          :sectors  185}}}
                                                 {:name        "NME"
                                                  :short-name  "MAP19"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Suspense"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   273
+                                                                          :vertexes 965
+                                                                          :linedefs 1041
+                                                                          :sidedefs 1476
+                                                                          :sectors  131}}}
                                                 {:name        "The Death Domain"
                                                  :short-name  "MAP20"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Message For The Arch-Vile"
-                                                 :par-time    "2:30"}]}}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   270
+                                                                          :vertexes 1080
+                                                                          :linedefs 1157
+                                                                          :sidedefs 1711
+                                                                          :sectors  192}}}]}}
                                  {:e4 {:name   "Devil hive levels"
                                        :levels [{:name        "Slayer"
                                                  :short-name  "MAP21"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Doom II intermission text screen"
-                                                 :par-time    "4:00"}
+                                                 :par-time    "4:00"
+                                                 :statistics  {:map-data {:things   193
+                                                                          :vertexes 456
+                                                                          :linedefs 467
+                                                                          :sidedefs 719
+                                                                          :sectors  58}}}
                                                 {:name        "Impossible Mission"
                                                  :short-name  "MAP22"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "The Dave D. Taylor Blues"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   496
+                                                                          :vertexes 1680
+                                                                          :linedefs 1709
+                                                                          :sidedefs 2559
+                                                                          :sectors  175}}}
                                                 {:name        "Tombstone"
                                                  :short-name  "MAP23"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Bye Bye American Pie"
-                                                 :par-time    "3:00"}
+                                                 :par-time    "3:00"
+                                                 :statistics  {:map-data {:things   547
+                                                                          :vertexes 1916
+                                                                          :linedefs 1958
+                                                                          :sidedefs 2961
+                                                                          :sectors  245}}}
                                                 {:name        "The Final Frontier"
                                                  :short-name  "MAP24"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "In the Dark"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   294
+                                                                          :vertexes 951
+                                                                          :linedefs 998
+                                                                          :sidedefs 1576
+                                                                          :sectors  149}}}
                                                 {:name        "The Temple of Darkness"
                                                  :short-name  "MAP25"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Adrian's Asleep"
-                                                 :par-time    "2:30"}
+                                                 :par-time    "2:30"
+                                                 :statistics  {:map-data {:things   418
+                                                                          :vertexes 1563
+                                                                          :linedefs 1475
+                                                                          :sidedefs 2222
+                                                                          :sectors  146}}}
                                                 {:name        "Bunker"
                                                  :short-name  "MAP26"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "Message For The Archvile"
-                                                 :par-time    "5:00"}
+                                                 :par-time    "5:00"
+                                                 :statistics  {:map-data {:things   364
+                                                                          :vertexes 1746
+                                                                          :linedefs 1664
+                                                                          :sidedefs 2275
+                                                                          :sectors  203}}}
                                                 {:name        "Anti-Christ"
                                                  :short-name  "MAP27"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "I Sawed The Demons"
-                                                 :par-time    "5:30"}
+                                                 :par-time    "5:30"
+                                                 :statistics  {:map-data {:things   287
+                                                                          :vertexes 1314
+                                                                          :linedefs 1343
+                                                                          :sidedefs 2116
+                                                                          :sectors  167}}}
                                                 {:name        "The Sewers"
                                                  :short-name  "MAP28"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "The Demons From Adrian's Pen"
-                                                 :par-time    "7:00"}
+                                                 :par-time    "7:00"
+                                                 :statistics  {:map-data {:things   508
+                                                                          :vertexes 2454
+                                                                          :linedefs 2519
+                                                                          :sidedefs 3700
+                                                                          :sectors  297}}}
                                                 {:name        "Odyssey of Noises"
                                                  :short-name  "MAP29"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "At Doom's Gate"
-                                                 :par-time    "5:00"}
+                                                 :par-time    "5:00"
+                                                 :statistics  {:map-data {:things   344
+                                                                          :vertexes 2922
+                                                                          :linedefs 2957
+                                                                          :sidedefs 1279
+                                                                          :sectors  287}}}
                                                 {:name        "The Gateway of Hell"
                                                  :short-name  "MAP30"
                                                  :authors     ["Dario Casali" "Milo Casali"]
                                                  :sound-track "The End of DOOM"
-                                                 :par-time    "3:00"}]}}
+                                                 :par-time    "3:00"
+                                                 :statistics  {:map-data {:things   260
+                                                                          :vertexes 1524
+                                                                          :linedefs 1535
+                                                                          :sidedefs 919
+                                                                          :sectors  129}}}]}}
                                  {:secret {:name   "Secret levels"
                                            :levels [{:name        "Cyberden"
                                                      :short-name  "MAP31"
@@ -689,10 +1340,20 @@
                                                      :sound-track "Sign Of Evil"
                                                      :par-time    "2:00"
                                                      :secret-exit true
-                                                     :secret      true}
+                                                     :secret      true
+                                                     :statistics  {:map-data {:things   277
+                                                                              :vertexes 1097
+                                                                              :linedefs 1113
+                                                                              :sidedefs 1657
+                                                                              :sectors  159}}}
                                                     {:name        "Go 2 It"
                                                      :short-name  "MAP32"
                                                      :authors     ["Dario Casali" "Milo Casali"]
                                                      :sound-track "Nobody Told Me About Id"
                                                      :par-time    "0:30"
-                                                     :secret      true}]}}]}}]}
+                                                     :secret      true
+                                                     :statistics  {:map-data {:things   521
+                                                                              :vertexes 1003
+                                                                              :linedefs 979
+                                                                              :sidedefs 1392
+                                                                              :sectors  157}}}]}}]}}]}

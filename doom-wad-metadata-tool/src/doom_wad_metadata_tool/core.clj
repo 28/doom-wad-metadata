@@ -10,7 +10,10 @@
 ;; Spec
 
 ;; common
+(def non-negative? (complement neg-int?))
+
 (s/def ::name string?)
+(s/def ::alternate-name string?)
 (s/def ::file-name string?)
 (s/def ::description string?)
 (s/def ::short-name (s/and string? #(re-matches #"E\dM\d|MAP\d\d" %)))
@@ -19,10 +22,19 @@
 (s/def ::par-time (s/and string? #(re-matches #"\d:\d\d" %)))
 (s/def ::secret boolean?)
 (s/def ::secret-exit boolean?)
+(s/def ::things non-negative?)
+(s/def ::vertexes non-negative?)
+(s/def ::linedefs non-negative?)
+(s/def ::sidedefs non-negative?)
+(s/def ::sectors non-negative?)
+
+;; statistics
+(s/def ::map-data (s/keys :req-un [::things ::vertexes ::linedefs ::sidedefs ::sectors]))
+(s/def ::statistics (s/keys :req-un [::map-data]))
 
 ;; levels
-(s/def ::level (s/keys :req-un [::name ::short-name ::authors ::sound-track]
-                       :opt-un [::par-time ::secret ::secret-exit]))
+(s/def ::level (s/keys :req-un [::name ::short-name ::authors ::sound-track ::statistics]
+                       :opt-un [::alternate-name ::par-time ::secret ::secret-exit]))
 (s/def ::levels (s/coll-of ::level))
 
 ;; episodes
